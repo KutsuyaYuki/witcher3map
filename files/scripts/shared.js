@@ -13,8 +13,7 @@ $.i18n.init(i18noptions, function() {
 	$.i18n.loadNamespace(namespace, function() {
 		if (namespace == "WhiteOrchard") {
 			getMapdata('white_orchard');
-		} else if (namespace == "v") {
-			//			getMapdata('velen');
+		} else if (namespace == "velen") {
 			getMapdata('hos_velen');
 		} else if (namespace == "s") {
 			getMapdata('skellige');

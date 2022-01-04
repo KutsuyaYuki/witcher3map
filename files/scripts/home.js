@@ -5,7 +5,7 @@ window.markers = {};
 
 //i18n init to translate search results
 $.i18n.init(i18noptions, function() {
-	$.i18n.loadNamespace('v', function() {
+	$.i18n.loadNamespace('velen', function() {
 		$.cachedScript("files/scripts/mapdata-hos_velen.js").done(function(script, textStatus) {
 			$.i18n.loadNamespace('s', function() {
 				$.cachedScript("files/scripts/mapdata-skellige.js").done(function(script, textStatus) {
