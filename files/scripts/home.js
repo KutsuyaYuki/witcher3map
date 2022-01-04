@@ -17,7 +17,7 @@ $.i18n.init(i18noptions, function() {
 										$.cachedScript("files/scripts/mapdata-toussaint.js").done(function(script, textStatus) {
 											$.i18n.loadNamespace('ToussaintFables', function() {
 												$.cachedScript("files/scripts/mapdata-toussaint_fables.js").done(function(script, textStatus) {
-													$.i18n.loadNamespace('m', function() {
+													$.i18n.loadNamespace('Mists', function() {
 														$.cachedScript("files/scripts/mapdata-isle_mists.js").done(function(script, textStatus) {
 
 															processData('velen', mapdata_hos_velen);
