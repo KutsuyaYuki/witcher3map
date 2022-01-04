@@ -11,7 +11,7 @@ var getMapdata = function(mapname) {
 $.i18n.init(i18noptions, function() {
 	var namespace = location.pathname.match(/\/(\w+)\/(?:index.html)?$/)[1];
 	$.i18n.loadNamespace(namespace, function() {
-		if (namespace == "w") {
+		if (namespace == "WhiteOrchard") {
 			getMapdata('white_orchard');
 		} else if (namespace == "v") {
 			//			getMapdata('velen');
