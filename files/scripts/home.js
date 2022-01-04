@@ -5,9 +5,9 @@ window.markers = {};
 
 //i18n init to translate search results
 $.i18n.init(i18noptions, function() {
-	$.i18n.loadNamespace('velen', function() {
+	$.i18n.loadNamespace('Velen', function() {
 		$.cachedScript("files/scripts/mapdata-hos_velen.js").done(function(script, textStatus) {
-			$.i18n.loadNamespace('s', function() {
+			$.i18n.loadNamespace('Skellige', function() {
 				$.cachedScript("files/scripts/mapdata-skellige.js").done(function(script, textStatus) {
 					$.i18n.loadNamespace('WhiteOrchard', function() {
 						$.cachedScript("files/scripts/mapdata-white_orchard.js").done(function(script, textStatus) {
