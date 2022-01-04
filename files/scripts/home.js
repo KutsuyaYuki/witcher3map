@@ -15,7 +15,7 @@ $.i18n.init(i18noptions, function() {
 								$.cachedScript("files/scripts/mapdata-kaer_morhen.js").done(function(script, textStatus) {
 									$.i18n.loadNamespace('t', function() {
 										$.cachedScript("files/scripts/mapdata-toussaint.js").done(function(script, textStatus) {
-											$.i18n.loadNamespace('f', function() {
+											$.i18n.loadNamespace('ToussaintFables', function() {
 												$.cachedScript("files/scripts/mapdata-toussaint_fables.js").done(function(script, textStatus) {
 													$.i18n.loadNamespace('m', function() {
 														$.cachedScript("files/scripts/mapdata-isle_mists.js").done(function(script, textStatus) {

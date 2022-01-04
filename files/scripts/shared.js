@@ -9,7 +9,7 @@ var getMapdata = function(mapname) {
 };
 
 $.i18n.init(i18noptions, function() {
-	var namespace = location.pathname.match(/\/(\w{1})\/(?:index.html)?$/)[1];
+	var namespace = location.pathname.match(/\/(\w+)\/(?:index.html)?$/)[1];
 	$.i18n.loadNamespace(namespace, function() {
 		if (namespace == "w") {
 			getMapdata('white_orchard');
@@ -22,7 +22,7 @@ $.i18n.init(i18noptions, function() {
 			getMapdata('toussaint');
 		} else if (namespace == "k") {
 			getMapdata('kaer_morhen');
-		} else if (namespace == "f") {
+		} else if (namespace == "ToussaintFables") {
 			getMapdata('toussaint_fables');
 		} else if (namespace == "m") {
 			getMapdata('isle_mists');
