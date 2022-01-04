@@ -11,7 +11,7 @@ $.i18n.init(i18noptions, function() {
 				$.cachedScript("files/scripts/mapdata-skellige.js").done(function(script, textStatus) {
 					$.i18n.loadNamespace('WhiteOrchard', function() {
 						$.cachedScript("files/scripts/mapdata-white_orchard.js").done(function(script, textStatus) {
-							$.i18n.loadNamespace('k', function() {
+							$.i18n.loadNamespace('KaerMorhen', function() {
 								$.cachedScript("files/scripts/mapdata-kaer_morhen.js").done(function(script, textStatus) {
 									$.i18n.loadNamespace('t', function() {
 										$.cachedScript("files/scripts/mapdata-toussaint.js").done(function(script, textStatus) {

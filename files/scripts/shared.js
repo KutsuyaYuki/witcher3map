@@ -19,7 +19,7 @@ $.i18n.init(i18noptions, function() {
 			getMapdata('skellige');
 		} else if (namespace == "t") {
 			getMapdata('toussaint');
-		} else if (namespace == "k") {
+		} else if (namespace == "KaerMorhen") {
 			getMapdata('kaer_morhen');
 		} else if (namespace == "ToussaintFables") {
 			getMapdata('toussaint_fables');
