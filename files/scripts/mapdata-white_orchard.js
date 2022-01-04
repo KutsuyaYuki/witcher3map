@@ -68,8 +68,8 @@ window.mapdata_white_orchard = {
 	// Contracts
 	contracts: [{
 		coords: [[-67.6593863700988, -100.546875]],
-		label: $.t("w:contracts.label.devil"),
-		popup: $.t("w:contracts.desc.devil")
+		label: $.t("WhiteOrchard:contracts.label.devil"),
+		popup: $.t("WhiteOrchard:contracts.desc.devil")
 	}],
 	
 	// Entrance
@@ -86,12 +86,12 @@ window.mapdata_white_orchard = {
 	// Events
 	event: [{
 		coords: [[-65.982, -131.748]],
-		label: $.t("w:event.label.tomira"),
-		popup: $.t("w:event.desc.tomira")
+		label: $.t("WhiteOrchard:event.label.tomira"),
+		popup: $.t("WhiteOrchard:event.desc.tomira")
 	}, {
 		coords: [[-48.283, -126.387]],
-		label: $.t("w:event.label.dwarves"),
-		popup: $.t("w:event.desc.dwarves")
+		label: $.t("WhiteOrchard:event.label.dwarves"),
+		popup: $.t("WhiteOrchard:event.desc.dwarves")
 	}],
 
 	// Grindstone
@@ -121,8 +121,8 @@ window.mapdata_white_orchard = {
 	// Gwent Player
 	gwent: [{
 		coords: [[-65.946, -81.387]],
-		label: $.t("w:gwent.label.player"),
-		popup: $.t("w:gwent.desc.player") + $.t("w:gwent.desc.warn")
+		label: $.t("WhiteOrchard:gwent.label.player"),
+		popup: $.t("WhiteOrchard:gwent.desc.player") + $.t("WhiteOrchard:gwent.desc.warn")
 	}],
 
 	harbor: [],
@@ -135,7 +135,7 @@ window.mapdata_white_orchard = {
 	}, {
 		coords: [[-77.542, -49.043]],
 		label: $.t("herbalist.label"),
-		popup: $.t("w:misc.liberated") + $.t("herbalist.desc")
+		popup: $.t("WhiteOrchard:misc.liberated") + $.t("herbalist.desc")
 	}],
 
 	// Hidden Treasure
@@ -152,9 +152,9 @@ window.mapdata_white_orchard = {
 	// Innkeep
 	innkeep: [{
 		coords: [[-65.731, -80.068]],
-		label: $.t("w:innkeep.inns.whiteOrchardInn"),
-		popupTitle: $.t("w:innkeep.popup"),
-		popup: $.t("w:innkeep.desc.foodDrinkAndGwent") + $.t("w:misc.disappears")
+		label: $.t("WhiteOrchard:innkeep.inns.whiteOrchardInn"),
+		popupTitle: $.t("WhiteOrchard:innkeep.popup"),
+		popup: $.t("WhiteOrchard:innkeep.desc.foodDrinkAndGwent") + $.t("WhiteOrchard:misc.disappears")
 	}],
 
 	// Monster Den
@@ -217,16 +217,16 @@ window.mapdata_white_orchard = {
 	// Point of Interest
 	poi: [{
 		coords: [[-49.611, 7.998]],
-		label: $.t("w:poi.label.lootableBattlefield"),
-		popup: $.t("w:poi.desc.lootableBattlefield")
+		label: $.t("WhiteOrchard:poi.label.lootableBattlefield"),
+		popup: $.t("WhiteOrchard:poi.desc.lootableBattlefield")
 	}, {
 		coords: [[-60, 2]],
-		label: $.t("w:poi.label.crystalSkull"),
-		popup: $.t("w:poi.desc.crystalSkull")
+		label: $.t("WhiteOrchard:poi.label.crystalSkull"),
+		popup: $.t("WhiteOrchard:poi.desc.crystalSkull")
 	}, {
 		coords: [[-67.407, -76.729]],
-		label: $.t("w:poi.label.boss"),
-		popup: $.t("w:poi.desc.boss")
+		label: $.t("WhiteOrchard:poi.label.boss"),
+		popup: $.t("WhiteOrchard:poi.desc.boss")
 	}],
 
 	// Scavengers
@@ -243,98 +243,98 @@ window.mapdata_white_orchard = {
 	// Shopkeeper
 	shopkeeper: [{
 		coords: [[-66.320, -75.674]],
-		label: $.t("w:shopkeeper.label.shopkeeper"),
-		popup: $.t("w:shopkeeper.desc.gwentCraftingAndHorse")
+		label: $.t("WhiteOrchard:shopkeeper.label.shopkeeper"),
+		popup: $.t("WhiteOrchard:shopkeeper.desc.gwentCraftingAndHorse")
 	}, {
 		coords: [[-66.338, -155.654]],
-		label: $.t("w:shopkeeper.label.shopkeeper"),
-		popup: $.t("w:shopkeeper.desc.alchemyRunesAndFood")
+		label: $.t("WhiteOrchard:shopkeeper.label.shopkeeper"),
+		popup: $.t("WhiteOrchard:shopkeeper.desc.alchemyRunesAndFood")
 	}],
 	
 	// Sidequests
 	sidequests: [{
 		coords: [[-60.370429016315, -109.2480469]],
-		label: $.t("w:sidequests.label.fry"),
-		popup: $.t("w:sidequests.desc.fry")
+		label: $.t("WhiteOrchard:sidequests.label.fry"),
+		popup: $.t("WhiteOrchard:sidequests.desc.fry")
 	}, {
 		coords: [[-68.76823505, -88.98925781]],
-		label: $.t("w:sidequests.label.twist"),
-		popup: $.t("w:sidequests.desc.twist")
+		label: $.t("WhiteOrchard:sidequests.label.twist"),
+		popup: $.t("WhiteOrchard:sidequests.desc.twist")
 	}, {
 		coords: [[-67.57571742, -85.03417969]],
-		label: $.t("w:sidequests.label.faith"),
-		popup: $.t("w:sidequests.desc.faith")
+		label: $.t("WhiteOrchard:sidequests.label.faith"),
+		popup: $.t("WhiteOrchard:sidequests.desc.faith")
 	}, {
 		coords: [[-73.83705791, -5.053710937]],
-		label: $.t("w:sidequests.label.missing"),
-		popup: $.t("w:sidequests.desc.missing")
+		label: $.t("WhiteOrchard:sidequests.label.missing"),
+		popup: $.t("WhiteOrchard:sidequests.desc.missing")
 	}, {
 		coords: [[-66.05371622, -133.3740234]],
-		label: $.t("w:sidequests.label.death"),
-		popup: $.t("w:sidequests.desc.death")
+		label: $.t("WhiteOrchard:sidequests.label.death"),
+		popup: $.t("WhiteOrchard:sidequests.desc.death")
 	}, {
 		coords: [[-47.21956811, -143.2617188]],
-		label: $.t("w:sidequests.label.precious"),
-		popup: $.t("w:sidequests.desc.precious")
+		label: $.t("WhiteOrchard:sidequests.label.precious"),
+		popup: $.t("WhiteOrchard:sidequests.desc.precious")
 	}, {
 		coords: [[-28.80617351, -42.75878906]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("w:sidequests.label.tr_deserter"),
-		popup: $.t("w:sidequests.desc.tr_deserter")
+		label: $.t("treasure.label") +$.t(": ") +$.t("WhiteOrchard:sidequests.label.tr_deserter"),
+		popup: $.t("WhiteOrchard:sidequests.desc.tr_deserter")
 	}, {
 		coords: [[-39.19820535, -57.56835938]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("w:sidequests.label.tr_dirty"),
-		popup: $.t("w:sidequests.desc.tr_dirty")
+		label: $.t("treasure.label") +$.t(": ") +$.t("WhiteOrchard:sidequests.label.tr_dirty"),
+		popup: $.t("WhiteOrchard:sidequests.desc.tr_dirty")
 	}, {
 		coords: [[-47.42808726, -111.7089844]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("w:sidequests.label.tr_temerian") + $.t("misc.key"),
-		popup: $.t("w:sidequests.desc.tr_temerian")
+		label: $.t("treasure.label") +$.t(": ") +$.t("WhiteOrchard:sidequests.label.tr_temerian") + $.t("misc.key"),
+		popup: $.t("WhiteOrchard:sidequests.desc.tr_temerian")
 	}, {
 		coords: [[-42.48830198, -75.49804688]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("w:sidequests.label.tr_temerian"),
-		popup: $.t("w:sidequests.desc.tr_temerian")
+		label: $.t("treasure.label") +$.t(": ") +$.t("WhiteOrchard:sidequests.label.tr_temerian"),
+		popup: $.t("WhiteOrchard:sidequests.desc.tr_temerian")
 	}],
 
 	// Sign Post
 	signpost: [{
 		coords: [[-78.955, -85.869]],
-		label: $.t("w:signpost.label.abandonedVillage"),
-		popup: $.t("w:signpost.desc.abandonedVillage")
+		label: $.t("WhiteOrchard:signpost.label.abandonedVillage"),
+		popup: $.t("WhiteOrchard:signpost.desc.abandonedVillage")
 	}, {
 		coords: [[-77.916, -109.819]],
-		label: $.t("w:signpost.label.brokenBridge"),
-		popup: $.t("w:signpost.desc.brokenBridge")
+		label: $.t("WhiteOrchard:signpost.label.brokenBridge"),
+		popup: $.t("WhiteOrchard:signpost.desc.brokenBridge")
 	}, {
 		coords: [[-67.136, -72.202]],
-		label: $.t("w:signpost.label.woesongBridge"),
-		popup: $.t("w:signpost.desc.woesongBridge")
+		label: $.t("WhiteOrchard:signpost.label.woesongBridge"),
+		popup: $.t("WhiteOrchard:signpost.desc.woesongBridge")
 	}, {
 		coords: [[-65.440, -141.855]],
-		label: $.t("w:signpost.label.sawmill"),
-		popup: $.t("w:signpost.desc.sawmill")
+		label: $.t("WhiteOrchard:signpost.label.sawmill"),
+		popup: $.t("WhiteOrchard:signpost.desc.sawmill")
 	}, {
 		coords: [[-47.339, -89.912]],
-		label: $.t("w:signpost.label.mill"),
-		popup: $.t("w:signpost.desc.mill")
+		label: $.t("WhiteOrchard:signpost.label.mill"),
+		popup: $.t("WhiteOrchard:signpost.desc.mill")
 	}, {
 		coords: [[-20.468, -153.281]],
-		label: $.t("w:signpost.label.nilfgaardianGarrison"),
-		popup: $.t("w:signpost.desc.nilfgaardianGarrison")
+		label: $.t("WhiteOrchard:signpost.label.nilfgaardianGarrison"),
+		popup: $.t("WhiteOrchard:signpost.desc.nilfgaardianGarrison")
 	}, {
 		coords: [[-46.073, -13.271]],
-		label:  $.t("w:signpost.label.cacklerBridge"),
-		popup: $.t("w:signpost.desc.cacklerBridge")
+		label:  $.t("WhiteOrchard:signpost.label.cacklerBridge"),
+		popup: $.t("WhiteOrchard:signpost.desc.cacklerBridge")
 	}, {
 		coords: [[-63.015, -4.482]],
-		label: $.t("w:signpost.label.crossroads"),
-		popup: $.t("w:signpost.desc.crossroads")
+		label: $.t("WhiteOrchard:signpost.label.crossroads"),
+		popup: $.t("WhiteOrchard:signpost.desc.crossroads")
 	}, {
 		coords: [[-68.106, -37.266]],
-		label: $.t("w:signpost.label.ford"),
-		popup: $.t("w:signpost.desc.ford")
+		label: $.t("WhiteOrchard:signpost.label.ford"),
+		popup: $.t("WhiteOrchard:signpost.desc.ford")
 	}, {
 		coords: [[-71.413, 1.230]],
-		label: $.t("w:signpost.label.ransackedVillage"),
-		popup: $.t("w:signpost.desc.ransackedVillage")
+		label: $.t("WhiteOrchard:signpost.label.ransackedVillage"),
+		popup: $.t("WhiteOrchard:signpost.desc.ransackedVillage")
 	}],
 
 	// Smugglers' Cache

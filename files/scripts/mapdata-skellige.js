@@ -40,8 +40,8 @@ window.mapdata_skellige = {
 		popup: $.t("alchemy.desc")
 	}, {
 		coords: [[-19.705, 17.314]],
-		label: $.t("s:alchemy.gremist.label"),
-		popup: $.t("s:alchemy.gremist.desc")
+		label: $.t("Skellige:alchemy.gremist.label"),
+		popup: $.t("Skellige:alchemy.gremist.desc")
 	}],
 
 	// Armourer
@@ -206,40 +206,40 @@ window.mapdata_skellige = {
 	// Contracts
 	contracts: [{
 		coords: [[-55.46639936, -14.98535156]],
-		label: $.t("s:contracts.label.dragon"),
-		popup: $.t("s:contracts.desc.dragon")
+		label: $.t("Skellige:contracts.label.dragon"),
+		popup: $.t("Skellige:contracts.desc.dragon")
 	}, {
 		coords: [[32.00807596, -110.9619141]],
-		label: $.t("s:contracts.label.groom"),
-		popup: $.t("s:contracts.desc.groom")
+		label: $.t("Skellige:contracts.label.groom"),
+		popup: $.t("Skellige:contracts.desc.groom")
 	}, {
 		coords: [[-30.4676141, -1.58203125]],
-		label: $.t("s:contracts.label.miners"),
-		popup: $.t("s:contracts.desc.miners")
+		label: $.t("Skellige:contracts.label.miners"),
+		popup: $.t("Skellige:contracts.desc.miners")
 	}, {
 		coords: [[-29.03696065, -26.43310547]],
-		label: $.t("s:contracts.label.missing"),
-		popup: $.t("s:contracts.desc.missing")
+		label: $.t("Skellige:contracts.label.missing"),
+		popup: $.t("Skellige:contracts.desc.missing")
 	}, {
 		coords: [[-6.511814706, -37.04589844]],
-		label: $.t("s:contracts.label.muire"),
-		popup: $.t("s:contracts.desc.muire")
+		label: $.t("Skellige:contracts.label.muire"),
+		popup: $.t("Skellige:contracts.desc.muire")
 	}, {
 		coords: [[-55.91227293, -14.74365234]],
-		label: $.t("s:contracts.label.wanted"),
-		popup: $.t("s:contracts.desc.wanted")
+		label: $.t("Skellige:contracts.label.wanted"),
+		popup: $.t("Skellige:contracts.desc.wanted")
 	}, {
 		coords: [[-29.43959757, 98.19580078]],
-		label: $.t("s:contracts.label.beast"),
-		popup: $.t("s:contracts.desc.beast")
+		label: $.t("Skellige:contracts.label.beast"),
+		popup: $.t("Skellige:contracts.desc.beast")
 	}, {
 		coords: [[-42.85985982, -62.64404297]],
-		label: $.t("s:contracts.label.eldberg"),
-		popup: $.t("s:contracts.desc.eldberg")
+		label: $.t("Skellige:contracts.label.eldberg"),
+		popup: $.t("Skellige:contracts.desc.eldberg")
 	}, {
 		coords: [[-38.94232098, -31.92626953]],
-		label: $.t("s:contracts.label.heart"),
-		popup: $.t("s:contracts.desc.heart")
+		label: $.t("Skellige:contracts.label.heart"),
+		popup: $.t("Skellige:contracts.desc.heart")
 	}],
 
 	// Entrance
@@ -377,32 +377,32 @@ window.mapdata_skellige = {
 	// Events
 	event: [{
 		coords: [[-43.83452678, -59.67773438]],
-		label: $.t("s:event.label.wild"),
-		popup: $.t("s:event.desc.wild")
+		label: $.t("Skellige:event.label.wild"),
+		popup: $.t("Skellige:event.desc.wild")
 	}, {
 		coords: [[-57.06463027, -49.41650391]],
-		label: $.t("s:event.label.farting"),
-		popup: $.t("s:event.desc.farting")
+		label: $.t("Skellige:event.label.farting"),
+		popup: $.t("Skellige:event.desc.farting")
 	}, {
 		coords: [[-43.37311218, -54.60205078]],
-		label: $.t("s:event.label.children"),
-		popup: $.t("s:event.desc.children")
+		label: $.t("Skellige:event.label.children"),
+		popup: $.t("Skellige:event.desc.children")
 	}, {
 		coords: [[-39.55488306, -53.02001953]],
-		label: $.t("s:event.label.siren"),
-		popup: $.t("s:event.desc.siren")
+		label: $.t("Skellige:event.label.siren"),
+		popup: $.t("Skellige:event.desc.siren")
 	}, {
 		coords: [[-76.49117927, 63.78662109]],
-		label: $.t("s:event.label.hemdall"),
-		popup: $.t("s:event.desc.hemdall")
+		label: $.t("Skellige:event.label.hemdall"),
+		popup: $.t("Skellige:event.desc.hemdall")
 	}, {
 		coords: [[-46.67959447, -6.899414063]],
-		label: $.t("s:event.label.woe"),
-		popup: $.t("s:event.desc.woe")
+		label: $.t("Skellige:event.label.woe"),
+		popup: $.t("Skellige:event.desc.woe")
 	}, {
 		coords: [[-2.262595301, -0.461425781]],
-		label: $.t("s:event.label.yustianna"),
-		popup: $.t("s:event.desc.yustianna")
+		label: $.t("Skellige:event.label.yustianna"),
+		popup: $.t("Skellige:event.desc.yustianna")
 	}],
 
 	// Grindstone
@@ -525,139 +525,139 @@ window.mapdata_skellige = {
 	// Gwent Player
 	gwent: [{ // Faroe
 		coords: [[-77.455, 49.227]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-77.350, 50.242]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, { // Hindarsfjall
 		coords: [[-29.206, 99.662]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-28.985, 100.993]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-28.513, 102.658]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-28.937, 98.769]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.armorer"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.armorer"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, { // An Skellig
 		coords: [[50.701, 38.203]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[50.669, 40.630]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[49.313, 39.443]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.armorer"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.armorer"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, { // Spikeroog
 		coords: [[33.201, -111.909]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[31.360, -110.856]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[31.361, -112.799]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, { // Ard Skellig
 		coords: [[-62.442, -37.585]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.armorer"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.armorer"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-61.917, -37.753]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-64.003, -47.744]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-42.031, -61.873]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-39.404, -63.487]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-37.165, -31.814]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player") + ' ' + $.t("pid.rescue") + ' <a href="#6/-33.724/-39.990">' + $.t("pid.rescueLocation") + '</a>'
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player") + ' ' + $.t("pid.rescue") + ' <a href="#6/-33.724/-39.990">' + $.t("pid.rescueLocation") + '</a>'
 	}, {
 		coords: [[-37.584, -29.837]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-56.435, -13.731]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-56.845, -15.313]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[3.085, -40.010]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.armorer"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.armorer"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[3.241, -40.449]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.blacksmith"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.blacksmith"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-30.576, -2.481]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.shopkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.shopkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-5.997, -34.407]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.herbalist"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.herbalist"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-3.194, -35.967]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.innkeeper"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.innkeeper"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}, {
 		coords: [[-19.555, 17.514]],
-		label: $.t("s:gwent.label.player"),
-		popupTitle: $.t("s:gwent.popup.gremist"),
-		popup: $.t("s:gwent.desc.player")
+		label: $.t("Skellige:gwent.label.player"),
+		popupTitle: $.t("Skellige:gwent.popup.gremist"),
+		popup: $.t("Skellige:gwent.desc.player")
 	}],
 
 	// Harbor
@@ -781,34 +781,34 @@ window.mapdata_skellige = {
 	// Innkeep
 	innkeep: [{ // Faroe
 		coords: [[-77.485, 49.007]],
-		label: $.t("s:innkeep.inns.harvikenInn"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup:  $.t("s:innkeep.desc.foodDrinkAndGwent")
+		label: $.t("Skellige:innkeep.inns.harvikenInn"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup:  $.t("Skellige:innkeep.desc.foodDrinkAndGwent")
 	}, { // Hindarsfjall
 		coords: [[-29.075, 100.723]],
-		label: $.t("s:innkeep.inns.houseOfWarriors"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup: $.t("s:innkeep.desc.foodAndDrink")
+		label: $.t("Skellige:innkeep.inns.houseOfWarriors"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup: $.t("Skellige:innkeep.desc.foodAndDrink")
 	}, { // An Skellig
 		coords: [[50.569, 40.430]],
-		label: $.t("s:innkeep.inns.uriallaHarbourInn"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup:  $.t("s:innkeep.desc.foodDrinkAndGwent")
+		label: $.t("Skellige:innkeep.inns.uriallaHarbourInn"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup:  $.t("Skellige:innkeep.desc.foodDrinkAndGwent")
 	}, { // Spikeroog
 		coords: [[31.241, -113.049]],
-		label: $.t("s:innkeep.inns.svorlagInn"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup:  $.t("s:innkeep.desc.foodDrinkAndGwent")
+		label: $.t("Skellige:innkeep.inns.svorlagInn"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup:  $.t("Skellige:innkeep.desc.foodDrinkAndGwent")
 	}, { // Ard Skellig
 		coords: [[-42.131, -62.073]],
-		label: $.t("s:innkeep.inns.arinbjornInn"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup:  $.t("s:innkeep.desc.foodDrinkAndGwent")
+		label: $.t("Skellige:innkeep.inns.arinbjornInn"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup:  $.t("Skellige:innkeep.desc.foodDrinkAndGwent")
 	}, {
 		coords: [[-3.294, -36.167]],
-		label: $.t("s:innkeep.inns.theNewPort"),
-		popupTitle: $.t("s:innkeep.popup"),
-		popup:  $.t("s:innkeep.desc.foodDrinkAndGwent")
+		label: $.t("Skellige:innkeep.inns.theNewPort"),
+		popupTitle: $.t("Skellige:innkeep.popup"),
+		popup:  $.t("Skellige:innkeep.desc.foodDrinkAndGwent")
 	}],
 
 	// Monster Den
@@ -926,7 +926,7 @@ window.mapdata_skellige = {
 		coords: [[4.784, -42.451]],
 		label: $.t("pop.label*"),
 		popupTitle: $.t("pop.popup", {sign: $.t("signs.quen")}),
-		popup: $.t("s:pop.desc.kingsGambit")
+		popup: $.t("Skellige:pop.desc.kingsGambit")
 	}, {
 		coords: [[-21.576, 29.795]],
 		label: $.t("pop.label"),
@@ -936,24 +936,24 @@ window.mapdata_skellige = {
 		coords: [[4.390, -25.708]],
 		label: $.t("pop.label*"),
 		popupTitle: $.t("pop.popup", {sign: $.t("signs.igni")}),
-		popup: $.t("s:pop.desc.sunstone")
+		popup: $.t("Skellige:pop.desc.sunstone")
 	}],
 
 	// Point of Interest
 	poi: [{ // Faroe
 		coords: [[-76.985, 57.788]],
-		label: $.t("s:poi.label.juttaAnDimun"),
-		popup: $.t("s:poi.desc.juttaAnDimun")
+		label: $.t("Skellige:poi.label.juttaAnDimun"),
+		popup: $.t("Skellige:poi.desc.juttaAnDimun")
 	}, {
 		coords: [[-62.8, -39]],
-		label: $.t("s:poi.label.jarlMadmanLugos"),
-		popupTitle:  $.t("s:poi.popupTitle.jarlMadmanLugos"),
-		popup: $.t("s:poi.desc.jarlMadmanLugos")
+		label: $.t("Skellige:poi.label.jarlMadmanLugos"),
+		popupTitle:  $.t("Skellige:poi.popupTitle.jarlMadmanLugos"),
+		popup: $.t("Skellige:poi.desc.jarlMadmanLugos")
 	}, {
 		coords: [[21.617, 59.854]],
-		label: $.t("s:poi.label.gship"),
-		popupTitle:  $.t("s:poi.popupTitle.gship"),
-		popup: $.t("s:poi.desc.gship")
+		label: $.t("Skellige:poi.label.gship"),
+		popupTitle:  $.t("Skellige:poi.popupTitle.gship"),
+		popup: $.t("Skellige:poi.desc.gship")
 	}],
 
 	// Scavengers
@@ -1062,526 +1062,526 @@ window.mapdata_skellige = {
 	// Shopkeeper
 	shopkeeper: [{ // Hindarsfjall
 		coords: [[-29.306, 99.492]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.craftingSuppliesAndFish")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.craftingSuppliesAndFish")
 	}, { // Spikeroog
 		coords: [[31.260, -111.006]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.craftingSuppliesAndFish")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.craftingSuppliesAndFish")
 	}, { // Ard Skellig
 		coords: [[-64.063, -47.944]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSuppliesFishAndSaddles")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSuppliesFishAndSaddles")
 	}, {
 		coords: [[-60.555, -51.416]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-42.747, -58.535]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-43.229, -49.175]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-32.045, -17.996]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-24.107, -22.632]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-37.684, -30.037]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-56.535, -13.931]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.craftingSuppliesAndFish")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.craftingSuppliesAndFish")
 	}, {
 		coords: [[-22.837, -20.522]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:misc.liberated") + $.t("s:shopkeeper.desc.armourAndCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:misc.liberated") + $.t("Skellige:shopkeeper.desc.armourAndCraftingSupplies")
 	}, {
 		coords: [[-30.676, -2.681]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSuppliesFoodAndDrink")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSuppliesFoodAndDrink")
 	}, {
 		coords: [[-14.541, -32.080]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-7.559, -40.408]],
-		label: $.t("s:shopkeeper.label.shopkeeper"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.shopkeeper"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}, {
 		coords: [[-3.401, -34.077]],
-		label: $.t("s:shopkeeper.label.tailor"),
-		popup: $.t("s:shopkeeper.desc.clothesAndCraftingSupplies") + $.t("s:shopkeeper.desc.barber")
+		label: $.t("Skellige:shopkeeper.label.tailor"),
+		popup: $.t("Skellige:shopkeeper.desc.clothesAndCraftingSupplies") + $.t("Skellige:shopkeeper.desc.barber")
 	}, {
 		coords: [[-8.581, -34.321]],
-		label: $.t("s:shopkeeper.label.wanderingMerchant"),
-		popup: $.t("s:shopkeeper.desc.mapsCraftingSupplies")
+		label: $.t("Skellige:shopkeeper.label.wanderingMerchant"),
+		popup: $.t("Skellige:shopkeeper.desc.mapsCraftingSupplies")
 	}],
 
 	// Sidequests
 	sidequests: [{
 		coords: [[-43.54854811, 8.459472656]],
-		label: $.t("s:sidequests.label.beloved"),
-		popup: $.t("s:sidequests.desc.beloved")
+		label: $.t("Skellige:sidequests.label.beloved"),
+		popup: $.t("Skellige:sidequests.desc.beloved")
 	}, {
 		coords: [[-25.62171596, -67.06054688]],
-		label: $.t("s:sidequests.label.horn"),
-		popup: $.t("s:sidequests.desc.horn")
+		label: $.t("Skellige:sidequests.label.horn"),
+		popup: $.t("Skellige:sidequests.desc.horn")
 	}, {
 		coords: [[-28.43971382, 101.5576172]],
-		label: $.t("s:sidequests.label.passenger"),
-		popup: $.t("s:sidequests.desc.passenger")
+		label: $.t("Skellige:sidequests.label.passenger"),
+		popup: $.t("Skellige:sidequests.desc.passenger")
 	}, {
 		coords: [[-24.50714328, 8.393554688]],
-		label: $.t("s:sidequests.label.sawmill"),
-		popup: $.t("s:sidequests.desc.sawmill")
+		label: $.t("Skellige:sidequests.label.sawmill"),
+		popup: $.t("Skellige:sidequests.desc.sawmill")
 	}, {
 		coords: [[-3.272145635, -35.57373047]],
-		label: $.t("s:sidequests.label.unpaid"),
-		popup: $.t("s:sidequests.desc.unpaid")
+		label: $.t("Skellige:sidequests.label.unpaid"),
+		popup: $.t("Skellige:sidequests.desc.unpaid")
 	}, {
 		coords: [[-32.93492867, -19.90722656]],
-		label: $.t("s:sidequests.label.assault"),
-		popup: $.t("s:sidequests.desc.assault")
+		label: $.t("Skellige:sidequests.label.assault"),
+		popup: $.t("Skellige:sidequests.desc.assault")
 	}, {
 		coords: [[-46.22545288, -24.01611328]],
-		label: $.t("s:sidequests.label.brave"),
-		popup: $.t("s:sidequests.desc.brave")
+		label: $.t("Skellige:sidequests.label.brave"),
+		popup: $.t("Skellige:sidequests.desc.brave")
 	}, {
 		coords: [[1.406108835, -40.97900391]],
-		label: $.t("s:sidequests.label.coronation"),
-		popup: $.t("s:sidequests.desc.coronation")
+		label: $.t("Skellige:sidequests.label.coronation"),
+		popup: $.t("Skellige:sidequests.desc.coronation")
 	}, {
 		coords: [[12.85464891, -15.42480469]],
-		label: $.t("s:sidequests.label.punishment1"),
-		popup: $.t("s:sidequests.desc.punishment1")
+		label: $.t("Skellige:sidequests.label.punishment1"),
+		popup: $.t("Skellige:sidequests.desc.punishment1")
 	}, {
 		coords: [[-5.681583683, -19.42382813]],
-		label: $.t("s:sidequests.label.punishment2"),
-		popup: $.t("s:sidequests.desc.punishment2")
+		label: $.t("Skellige:sidequests.label.punishment2"),
+		popup: $.t("Skellige:sidequests.desc.punishment2")
 	}, {
 		coords: [[12.49021366, 12.65625]],
-		label: $.t("s:sidequests.label.keepers"),
-		popup: $.t("s:sidequests.desc.keepers")
+		label: $.t("Skellige:sidequests.label.keepers"),
+		popup: $.t("Skellige:sidequests.desc.keepers")
 	}, {
 		coords: [[-77.24477981, 71.47705078]],
-		label: $.t("s:sidequests.label.flesh"),
-		popup: $.t("s:sidequests.desc.flesh")
+		label: $.t("Skellige:sidequests.label.flesh"),
+		popup: $.t("Skellige:sidequests.desc.flesh")
 	}, {
 		coords: [[-29.40131951, 94.17480469]],
-		label: $.t("s:sidequests.label.glory"),
-		popup: $.t("s:sidequests.desc.glory")
+		label: $.t("Skellige:sidequests.label.glory"),
+		popup: $.t("Skellige:sidequests.desc.glory")
 	}, {
 		coords: [[34.93998515, -20.52246094]],
-		label: $.t("s:sidequests.label.spirit"),
-		popup: $.t("s:sidequests.desc.spirit")
+		label: $.t("Skellige:sidequests.label.spirit"),
+		popup: $.t("Skellige:sidequests.desc.spirit")
 	}, {
 		coords: [[-33.22949814, 43.19824219]],
-		label: $.t("s:sidequests.label.fromfar"),
-		popup: $.t("s:sidequests.desc.fromfar")
+		label: $.t("Skellige:sidequests.label.fromfar"),
+		popup: $.t("Skellige:sidequests.desc.fromfar")
 	}, {
 		coords: [[-22.18740499, -8.525390625]],
-		label: $.t("s:sidequests.label.hardtimes"),
-		popup: $.t("s:sidequests.desc.hardtimes")
+		label: $.t("Skellige:sidequests.label.hardtimes"),
+		popup: $.t("Skellige:sidequests.desc.hardtimes")
 	}, {
 		coords: [[-28.343064904825475, 100.52490234375]],
-		label: $.t("s:sidequests.label.clothing"),
-		popup: $.t("s:sidequests.desc.clothing")
+		label: $.t("Skellige:sidequests.label.clothing"),
+		popup: $.t("Skellige:sidequests.desc.clothing")
 	}, {
 		coords: [[-77.07386965, 57.48046875]],
-		label: $.t("s:sidequests.label.maiden"),
-		popup: $.t("s:sidequests.desc.maiden")
+		label: $.t("Skellige:sidequests.label.maiden"),
+		popup: $.t("Skellige:sidequests.desc.maiden")
 	}, {
 		coords: [[2.174770572, -41.52832031]],
-		label: $.t("s:sidequests.label.gambit"),
-		popup: $.t("s:sidequests.desc.gambit")
+		label: $.t("Skellige:sidequests.label.gambit"),
+		popup: $.t("Skellige:sidequests.desc.gambit")
 	}, {
 		coords: [[31.01527898, -100.0634766]],
-		label: $.t("s:sidequests.label.arena"),
-		popup: $.t("s:sidequests.desc.arena")
+		label: $.t("Skellige:sidequests.label.arena"),
+		popup: $.t("Skellige:sidequests.desc.arena")
 	}, {
 		coords: [[-13.75272466, -27.50976563]],
-		label: $.t("s:sidequests.label.disturbed"),
-		popup: $.t("s:sidequests.desc.disturbed")
+		label: $.t("Skellige:sidequests.label.disturbed"),
+		popup: $.t("Skellige:sidequests.desc.disturbed")
 	}, {
 		coords: [[28.94086177, -112.565918]],
-		label: $.t("s:sidequests.label.possession"),
-		popup: $.t("s:sidequests.desc.possession")
+		label: $.t("Skellige:sidequests.label.possession"),
+		popup: $.t("Skellige:sidequests.desc.possession")
 	}, {
 		coords: [[-19.78738018, 16.94091797]],
-		label: $.t("s:sidequests.label.practicum"),
-		popup: $.t("s:sidequests.desc.practicum")
+		label: $.t("Skellige:sidequests.label.practicum"),
+		popup: $.t("Skellige:sidequests.desc.practicum")
 	}, {
 		coords: [[-21.75949973, 15.42480469]],
-		label: $.t("s:sidequests.label.therapy"),
-		popup: $.t("s:sidequests.desc.therapy")
+		label: $.t("Skellige:sidequests.label.therapy"),
+		popup: $.t("Skellige:sidequests.desc.therapy")
 	}, {
 		coords: [[-61.10078883, -37.77099609]],
-		label: $.t("s:sidequests.label.stranger"),
-		popup: $.t("s:sidequests.desc.stranger")
+		label: $.t("Skellige:sidequests.label.stranger"),
+		popup: $.t("Skellige:sidequests.desc.stranger")
 	}, {
 		coords: [[-45.32125436, 24.91699219]],
-		label: $.t("s:sidequests.label.taken1"),
-		popup: $.t("s:sidequests.desc.taken1")
+		label: $.t("Skellige:sidequests.label.taken1"),
+		popup: $.t("Skellige:sidequests.desc.taken1")
 	}, {
 		coords: [[-20.20034601, 92.83447266]],
-		label: $.t("s:sidequests.label.taken2"),
-		popup: $.t("s:sidequests.desc.taken2")
+		label: $.t("Skellige:sidequests.label.taken2"),
+		popup: $.t("Skellige:sidequests.desc.taken2")
 	}, {
 		coords: [[-69.82447077, -22.67578125]],
-		label: $.t("s:sidequests.label.dreams"),
-		popup: $.t("s:sidequests.desc.dreams")
+		label: $.t("Skellige:sidequests.label.dreams"),
+		popup: $.t("Skellige:sidequests.desc.dreams")
 	}, {
 		coords: [[-19.37334071, -12.21679688]],
-		label: $.t("s:sidequests.label.blade"),
-		popup: $.t("s:sidequests.desc.blade")
+		label: $.t("Skellige:sidequests.label.blade"),
+		popup: $.t("Skellige:sidequests.desc.blade")
 	}, {
 		coords: [[-29.01774802, 100.1953125]],
-		label: $.t("s:sidequests.label.last"),
-		popup: $.t("s:sidequests.desc.last")
+		label: $.t("Skellige:sidequests.label.last"),
+		popup: $.t("Skellige:sidequests.desc.last")
 	}, {
 		coords: [[-56.36525013685607, -111.9726563]],
-		label: $.t("s:sidequests.label.undvik"),
-		popup: $.t("s:sidequests.desc.undvik")
+		label: $.t("Skellige:sidequests.label.undvik"),
+		popup: $.t("Skellige:sidequests.desc.undvik")
 	}, {
 		coords: [[-32.24997446, -22.5]],
-		label: $.t("s:sidequests.label.nithing"),
-		popup: $.t("s:sidequests.desc.nithing")
+		label: $.t("Skellige:sidequests.label.nithing"),
+		popup: $.t("Skellige:sidequests.desc.nithing")
 	}, {
 		coords: [[50.48547355, 38.91357422]],
-		label: $.t("s:sidequests.label.warriors"),
-		popup: $.t("s:sidequests.desc.warriors")
+		label: $.t("Skellige:sidequests.label.warriors"),
+		popup: $.t("Skellige:sidequests.desc.warriors")
 	}, {
 		coords: [[-76.93055467, 50.18554688]],
-		label: $.t("s:sidequests.label.price"),
-		popup: $.t("s:sidequests.desc.price")
+		label: $.t("Skellige:sidequests.label.price"),
+		popup: $.t("Skellige:sidequests.desc.price")
 	}, {
 		coords: [[-30.6757154, -4.636230469]],
-		label: $.t("s:sidequests.label.grossbart"),
-		popup: $.t("s:sidequests.desc.grossbart")
+		label: $.t("Skellige:sidequests.label.grossbart"),
+		popup: $.t("Skellige:sidequests.desc.grossbart")
 	}, {
 		coords: [[50.40151532, 38.43017578]],
-		label: $.t("s:sidequests.label.nowheres"),
-		popup: $.t("s:sidequests.desc.nowheres")
+		label: $.t("Skellige:sidequests.label.nowheres"),
+		popup: $.t("Skellige:sidequests.desc.nowheres")
 	}, {
 		coords: [[-7.31888173, -39.24316406]],
-		label: $.t("s:sidequests.label.worthy1"),
-		popup: $.t("s:sidequests.desc.worthy1")
+		label: $.t("Skellige:sidequests.label.worthy1"),
+		popup: $.t("Skellige:sidequests.desc.worthy1")
 	}, {
 		coords: [[-14.8598504, -32.62939453]],
-		label: $.t("s:sidequests.label.worthy2"),
-		popup: $.t("s:sidequests.desc.worthy2")
+		label: $.t("Skellige:sidequests.label.worthy2"),
+		popup: $.t("Skellige:sidequests.desc.worthy2")
 	}, {
 		coords: [[-32.58384933, -27.44384766]],
-		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("s:sidequests.label.ps_fa"),
-		popup: $.t("s:sidequests.desc.ps_fa")
+		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("Skellige:sidequests.label.ps_fa"),
+		popup: $.t("Skellige:sidequests.desc.ps_fa")
 	}, {
 		coords: [[-28.76765911, 96.81152344]],
-		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("s:sidequests.label.ps_sg"),
-		popup: $.t("s:sidequests.desc.ps_sg")
+		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("Skellige:sidequests.label.ps_sg"),
+		popup: $.t("Skellige:sidequests.desc.ps_sg")
 	}, {
 		coords: [[-40.94671367, -4.130859375]],
-		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("s:sidequests.label.ps_fy"),
-		popup: $.t("s:sidequests.desc.ps_fy")
+		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("Skellige:sidequests.label.ps_fy"),
+		popup: $.t("Skellige:sidequests.desc.ps_fy")
 	}, {
 		coords: [[-27.68352808, -25.75195313]],
-		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("s:sidequests.label.ps_sk"),
-		popup: $.t("s:sidequests.desc.ps_sk")
+		label: $.t("sidequests.pursuit") +$.t(": ") +$.t("Skellige:sidequests.label.ps_sk"),
+		popup: $.t("Skellige:sidequests.desc.ps_sk")
 	}, {
 		coords: [[-6.882800242, -34.40917969]],
-		label: $.t("sidequests.gwent") +$.t(": ") +$.t("s:sidequests.label.gw_sk"),
-		popup: $.t("s:sidequests.desc.gw_sk")
+		label: $.t("sidequests.gwent") +$.t(": ") +$.t("Skellige:sidequests.label.gw_sk"),
+		popup: $.t("Skellige:sidequests.desc.gw_sk")
 	}, {
 		coords: [[30.9964459, -99.75585938]],
-		label: $.t("sidequests.fist") +$.t(": ") +$.t("s:sidequests.label.ff_champion"),
-		popup: $.t("s:sidequests.desc.ff_champion")
+		label: $.t("sidequests.fist") +$.t(": ") +$.t("Skellige:sidequests.label.ff_champion"),
+		popup: $.t("Skellige:sidequests.desc.ff_champion")
 	}, {
 		coords: [[-6.882800242, -34.78271484]],
-		label: $.t("sidequests.fist") +$.t(": ") +$.t("s:sidequests.label.ff_skellige"),
-		popup: $.t("s:sidequests.desc.ff_skellige")
+		label: $.t("sidequests.fist") +$.t(": ") +$.t("Skellige:sidequests.label.ff_skellige"),
+		popup: $.t("Skellige:sidequests.desc.ff_skellige")
 	}, {
 		coords: [[-58.79097841, -4.020996094]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_fortune"),
-		popup: $.t("s:sidequests.desc.tr_fortune")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_fortune"),
+		popup: $.t("Skellige:sidequests.desc.tr_fortune")
 	}, {
 		coords: [[-36.29741819, 0.593261719]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_praised"),
-		popup: $.t("s:sidequests.desc.tr_praised")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_praised"),
+		popup: $.t("Skellige:sidequests.desc.tr_praised")
 	}, {
 		coords: [[-78.46421682, 42.64892578]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_depths"),
-		popup: $.t("s:sidequests.desc.tr_depths")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_depths"),
+		popup: $.t("Skellige:sidequests.desc.tr_depths")
 	}, {
 		coords: [[-40.02761444, -18.39111328]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_inheritance"),
-		popup: $.t("s:sidequests.desc.tr_inheritance")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_inheritance"),
+		popup: $.t("Skellige:sidequests.desc.tr_inheritance")
 	}, {
 		coords: [[-65.6401549, 41.06689453]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_ironsides"),
-		popup: $.t("s:sidequests.desc.tr_ironsides")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_ironsides"),
+		popup: $.t("Skellige:sidequests.desc.tr_ironsides")
 	}, {
 		coords: [[46.95026224, 46.91162109]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_nilf"),
-		popup: $.t("s:sidequests.desc.tr_nilf")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_nilf"),
+		popup: $.t("Skellige:sidequests.desc.tr_nilf")
 	}, {
 		coords: [[26.31311264, -103.9746094]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_dare"),
-		popup: $.t("s:sidequests.desc.tr_dare")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_dare"),
+		popup: $.t("Skellige:sidequests.desc.tr_dare")
 	}, {
 		coords: [[-24.12670196, -70.44433594]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_pearls"),
-		popup: $.t("s:sidequests.desc.tr_pearls")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_pearls"),
+		popup: $.t("Skellige:sidequests.desc.tr_pearls")
 	}, {
 		coords: [[-46.02748185, -133.4838867]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_precious"),
-		popup: $.t("s:sidequests.desc.tr_precious")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_precious"),
+		popup: $.t("Skellige:sidequests.desc.tr_precious")
 	}, {
 		coords: [[-56.20670398, -112.7416992]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_ruins"),
-		popup: $.t("s:sidequests.desc.tr_ruins")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_ruins"),
+		popup: $.t("Skellige:sidequests.desc.tr_ruins")
 	}, {
 		coords: [[-55.88763545, -120.9594727]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_shortcut"),
-		popup: $.t("s:sidequests.desc.tr_shortcut")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_shortcut"),
+		popup: $.t("Skellige:sidequests.desc.tr_shortcut")
 	}, {
 		coords: [[38.83970761, -21.15966797]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_unlucky"),
-		popup: $.t("s:sidequests.desc.tr_unlucky")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_unlucky"),
+		popup: $.t("Skellige:sidequests.desc.tr_unlucky")
 	}, {
 		coords: [[-37.54457732, 2.746582031]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("s:sidequests.label.tr_marks"),
-		popup: $.t("s:sidequests.desc.tr_marks")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Skellige:sidequests.label.tr_marks"),
+		popup: $.t("Skellige:sidequests.desc.tr_marks")
 	}],
 
 	// Sign Post
 	signpost: [{ // Faroe
 		coords: [[-77.490, 69.829]],
-		label: $.t("s:signpost.label.trottheim"),
-		popup: $.t("s:signpost.desc.trottheim")
+		label: $.t("Skellige:signpost.label.trottheim"),
+		popup: $.t("Skellige:signpost.desc.trottheim")
 	}, {
 		coords: [[-77.206, 49.526]],
-		label: $.t("s:signpost.label.harviken"),
-		popup: $.t("s:signpost.desc.harviken")
+		label: $.t("Skellige:signpost.label.harviken"),
+		popup: $.t("Skellige:signpost.desc.harviken")
 	}, { // Hindarsfjall
 		coords: [[-30.031, 99.272]],
-		label: $.t("s:signpost.label.larvik"),
-		popup: $.t("s:signpost.desc.larvik")
+		label: $.t("Skellige:signpost.label.larvik"),
+		popup: $.t("Skellige:signpost.desc.larvik")
 	}, {
 		coords: [[-20.838, 86.177]],
-		label: $.t("s:signpost.label.freyasGarden"),
-		popup: $.t("s:signpost.desc.freyasGarden")
+		label: $.t("Skellige:signpost.label.freyasGarden"),
+		popup: $.t("Skellige:signpost.desc.freyasGarden")
 	}, {
 		coords: [[-25.463, 81.563]],
-		label: $.t("s:signpost.label.lofoten"),
-		popup: $.t("s:signpost.desc.lofoten")
+		label: $.t("Skellige:signpost.label.lofoten"),
+		popup: $.t("Skellige:signpost.desc.lofoten")
 	}, {
 		coords: [[-29.764, 82.375]],
-		label: $.t("s:signpost.label.lofotenCemetery"),
-		popup: $.t("s:signpost.desc.lofotenCemetery")
+		label: $.t("Skellige:signpost.label.lofotenCemetery"),
+		popup: $.t("Skellige:signpost.desc.lofotenCemetery")
 	}, {
 		coords: [[-33.505, 85.144]],
-		label: $.t("s:signpost.label.isolatedHut"),
-		popup: $.t("s:signpost.desc.isolatedHut")
+		label: $.t("Skellige:signpost.label.isolatedHut"),
+		popup: $.t("Skellige:signpost.desc.isolatedHut")
 	}, {
 		coords: [[-36.668, 91.604]],
-		label: $.t("s:signpost.label.lurthen"),
-		popup: $.t("s:signpost.desc.lurthen")
+		label: $.t("Skellige:signpost.label.lurthen"),
+		popup: $.t("Skellige:signpost.desc.lurthen")
 	}, { // An Skellig
 		coords: [[52.882, 46.230]],
-		label: $.t("s:signpost.label.trailToYngvarsFang"),
-		popup: $.t("s:signpost.desc.trailToYngvarsFang")
+		label: $.t("Skellige:signpost.label.trailToYngvarsFang"),
+		popup: $.t("Skellige:signpost.desc.trailToYngvarsFang")
 	}, {
 		coords: [[54.623, 35.376]],
-		label: $.t("s:signpost.label.yngvarsFang"),
-		popup: $.t("s:signpost.desc.yngvarsFang")
+		label: $.t("Skellige:signpost.label.yngvarsFang"),
+		popup: $.t("Skellige:signpost.desc.yngvarsFang")
 	}, {
 		coords: [[50.092, 38.364]],
-		label: $.t("s:signpost.label.uriallaHarbor"),
-		popup: $.t("s:signpost.desc.uriallaHarbor")
+		label: $.t("Skellige:signpost.label.uriallaHarbor"),
+		popup: $.t("Skellige:signpost.desc.uriallaHarbor")
 	}, {
 		coords: [[48.444, 27.510]],
-		label: $.t("s:signpost.label.bayOfWinds"),
-		popup: $.t("s:signpost.desc.bayOfWinds")
+		label: $.t("Skellige:signpost.label.bayOfWinds"),
+		popup: $.t("Skellige:signpost.desc.bayOfWinds")
 	}, { // Spikeroog
 		coords: [[33.229, -99.470]],
-		label: $.t("s:signpost.label.hov"),
-		popup: $.t("s:signpost.desc.hov")
+		label: $.t("Skellige:signpost.label.hov"),
+		popup: $.t("Skellige:signpost.desc.hov")
 	}, {
 		coords: [[32.380, -113.005]],
-		label: $.t("s:signpost.label.svorlag"),
-		popup: $.t("s:signpost.desc.svorlag")
+		label: $.t("Skellige:signpost.label.svorlag"),
+		popup: $.t("Skellige:signpost.desc.svorlag")
 	}, {
 		coords: [[22.289, -121.509]],
-		label: $.t("s:signpost.label.oldWatchtower"),
-		popup: $.t("s:signpost.desc.oldWatchtower")
+		label: $.t("Skellige:signpost.label.oldWatchtower"),
+		popup: $.t("Skellige:signpost.desc.oldWatchtower")
 	}, { // Eastern Islands
 		coords: [[-16.046, -139.482]],
-		label: $.t("s:signpost.label.thePaliGapCoast"),
-		popup: $.t("s:signpost.desc.thePaliGapCoast")
+		label: $.t("Skellige:signpost.label.thePaliGapCoast"),
+		popup: $.t("Skellige:signpost.desc.thePaliGapCoast")
 	}, {
 		coords: [[-8.538, -94.922]],
-		label: $.t("s:signpost.label.kaerAlmhult"),
-		popup: $.t("s:signpost.desc.kaerAlmhult")
+		label: $.t("Skellige:signpost.label.kaerAlmhult"),
+		popup: $.t("Skellige:signpost.desc.kaerAlmhult")
 	}, { // Undvik
 		coords: [[-52.456, -110.391]],
-		label: $.t("s:signpost.label.marlinCoast"),
-		popup: $.t("s:signpost.desc.marlinCoast")
+		label: $.t("Skellige:signpost.label.marlinCoast"),
+		popup: $.t("Skellige:signpost.desc.marlinCoast")
 	}, {
 		coords: [[-58.984, -98.899]],
-		label: $.t("s:signpost.label.gullPoint"),
-		popup: $.t("s:signpost.desc.gullPoint")
+		label: $.t("Skellige:signpost.label.gullPoint"),
+		popup: $.t("Skellige:signpost.desc.gullPoint")
 	}, {
 		coords: [[-56.377, -113.533]],
-		label: $.t("s:signpost.label.dorveRuins"),
-		popup: $.t("s:signpost.desc.dorveRuins")
+		label: $.t("Skellige:signpost.label.dorveRuins"),
+		popup: $.t("Skellige:signpost.desc.dorveRuins")
 	}, {
 		coords: [[-61.365, -121.553]],
-		label: $.t("s:signpost.label.clanTordarrochForge"),
-		popup: $.t("s:signpost.desc.clanTordarrochForge")
+		label: $.t("Skellige:signpost.label.clanTordarrochForge"),
+		popup: $.t("Skellige:signpost.desc.clanTordarrochForge")
 	}, {
 		coords: [[-58.367, -127.529]],
-		label: $.t("s:signpost.label.urskar"),
-		popup: $.t("s:signpost.desc.urskar")
+		label: $.t("Skellige:signpost.label.urskar"),
+		popup: $.t("Skellige:signpost.desc.urskar")
 	}, {
 		coords: [[-54.801, -135.176]],
-		label: $.t("s:signpost.label.abandonedVillage"),
-		popup: $.t("s:signpost.desc.abandonedVillage")
+		label: $.t("Skellige:signpost.label.abandonedVillage"),
+		popup: $.t("Skellige:signpost.desc.abandonedVillage")
 	}, {
 		coords: [[-43.133, -139.219]],
-		label: $.t("s:signpost.label.torGvalchca"),
-		popup: $.t("s:signpost.desc.torGvalchca")
+		label: $.t("Skellige:signpost.label.torGvalchca"),
+		popup: $.t("Skellige:signpost.desc.torGvalchca")
 	}, { // Ard Skellig
 		coords: [[-70.707, -6.064]],
-		label: $.t("s:signpost.label.elverumLighthouse"),
-		popup: $.t("s:signpost.desc.elverumLighthouse")
+		label: $.t("Skellige:signpost.label.elverumLighthouse"),
+		popup: $.t("Skellige:signpost.desc.elverumLighthouse")
 	}, {
 		coords: [[-58.939, -3.252]],
-		label: $.t("s:signpost.label.ruinedInn"),
-		popup: $.t("s:signpost.desc.ruinedInn")
+		label: $.t("Skellige:signpost.label.ruinedInn"),
+		popup: $.t("Skellige:signpost.desc.ruinedInn")
 	}, {
 		coords: [[-55.004, -15.029]],
-		label: $.t("s:signpost.label.fyresdal"),
-		popup: $.t("s:signpost.desc.fyresdal")
+		label: $.t("Skellige:signpost.label.fyresdal"),
+		popup: $.t("Skellige:signpost.desc.fyresdal")
 	}, {
 		coords: [[-63.085, -38.496]],
-		label: $.t("s:signpost.label.kaerMuire"),
-		popup: $.t("s:signpost.desc.kaerMuire")
+		label: $.t("Skellige:signpost.label.kaerMuire"),
+		popup: $.t("Skellige:signpost.desc.kaerMuire")
 	}, {
 		coords: [[-64.539, -47.329]],
-		label: $.t("s:signpost.label.holmsteinsPort"),
-		popup: $.t("s:signpost.desc.holmsteinsPort")
+		label: $.t("Skellige:signpost.label.holmsteinsPort"),
+		popup: $.t("Skellige:signpost.desc.holmsteinsPort")
 	}, {
 		coords: [[-54.098, -60.754]],
-		label: $.t("s:signpost.label.wildShore"),
-		popup: $.t("s:signpost.desc.wildShore")
+		label: $.t("Skellige:signpost.label.wildShore"),
+		popup: $.t("Skellige:signpost.desc.wildShore")
 	}, {
 		coords: [[-50.958, -42.935]],
-		label: $.t("s:signpost.label.fornhala"),
-		popup: $.t("s:signpost.desc.fornhala")
+		label: $.t("Skellige:signpost.label.fornhala"),
+		popup: $.t("Skellige:signpost.desc.fornhala")
 	}, {
 		coords: [[-54.763, 12.964]],
-		label: $.t("s:signpost.label.distillery"),
-		popup: $.t("s:signpost.desc.distillery")
+		label: $.t("Skellige:signpost.label.distillery"),
+		popup: $.t("Skellige:signpost.desc.distillery")
 	}, {
 		coords: [[-56.837, 23.071]],
-		label: $.t("s:signpost.label.grotto"),
-		popup: $.t("s:signpost.desc.grotto")
+		label: $.t("Skellige:signpost.label.grotto"),
+		popup: $.t("Skellige:signpost.desc.grotto")
 	}, {
 		coords: [[-47.145, -6.812]],
-		label: $.t("s:signpost.label.palisade"),
-		popup: $.t("s:signpost.desc.palisade")
+		label: $.t("Skellige:signpost.label.palisade"),
+		popup: $.t("Skellige:signpost.desc.palisade")
 	}, {
 		coords: [[-43.165, -63.677]],
-		label: $.t("s:signpost.label.arinbjorn"),
-		popup: $.t("s:signpost.desc.arinbjorn")
+		label: $.t("Skellige:signpost.label.arinbjorn"),
+		popup: $.t("Skellige:signpost.desc.arinbjorn")
 	}, {
 		coords: [[-40.212, -47.900]],
-		label: $.t("s:signpost.label.sund"),
-		popup: $.t("s:signpost.desc.sund")
+		label: $.t("Skellige:signpost.label.sund"),
+		popup: $.t("Skellige:signpost.desc.sund")
 	}, {
 		coords: [[-36.351, -31.311]],
-		label: $.t("s:signpost.label.fayrlund"),
-		popup: $.t("s:signpost.desc.fayrlund")
+		label: $.t("Skellige:signpost.label.fayrlund"),
+		popup: $.t("Skellige:signpost.desc.fayrlund")
 	}, {
 		coords: [[-41.311, -17.886]],
-		label: $.t("s:signpost.label.boxholm"),
-		popup: $.t("s:signpost.desc.boxholm")
+		label: $.t("Skellige:signpost.label.boxholm"),
+		popup: $.t("Skellige:signpost.desc.boxholm")
 	}, {
 		coords: [[-29.306, -25.928]],
-		label: $.t("s:signpost.label.rannvaig"),
-		popup: $.t("s:signpost.desc.rannvaig")
+		label: $.t("Skellige:signpost.label.rannvaig"),
+		popup: $.t("Skellige:signpost.desc.rannvaig")
 	}, {
 		coords: [[-30.827, -4.219]],
-		label: $.t("s:signpost.label.blandare"),
-		popup: $.t("s:signpost.desc.blandare")
+		label: $.t("Skellige:signpost.label.blandare"),
+		popup: $.t("Skellige:signpost.desc.blandare")
 	}, {
 		coords: [[-32.064, 14.458]],
-		label: $.t("s:signpost.label.druidsCamp"),
-		popup: $.t("s:signpost.desc.druidsCamp")
+		label: $.t("Skellige:signpost.label.druidsCamp"),
+		popup: $.t("Skellige:signpost.desc.druidsCamp")
 	}, {
 		coords: [[-30.940, 25.356]],
-		label: $.t("s:signpost.label.redgill"),
-		popup: $.t("s:signpost.desc.redgill")
+		label: $.t("Skellige:signpost.label.redgill"),
+		popup: $.t("Skellige:signpost.desc.redgill")
 	}, {
 		coords: [[-25.642, 7.031]],
-		label: $.t("s:signpost.label.abandonedSawmill"),
-		popup: $.t("s:signpost.desc.abandonedSawmill")
+		label: $.t("Skellige:signpost.label.abandonedSawmill"),
+		popup: $.t("Skellige:signpost.desc.abandonedSawmill")
 	}, {
 		coords: [[-21.882, 18.215]],
-		label: $.t("s:signpost.label.gedyneith"),
-		popup: $.t("s:signpost.desc.gedyneith")
+		label: $.t("Skellige:signpost.label.gedyneith"),
+		popup: $.t("Skellige:signpost.desc.gedyneith")
 	}, {
 		coords: [[-13.475, 24.390]],
-		label: $.t("s:signpost.label.whaleGraveyard"),
-		popup: $.t("s:signpost.desc.whaleGraveyard")
+		label: $.t("Skellige:signpost.label.whaleGraveyard"),
+		popup: $.t("Skellige:signpost.desc.whaleGraveyard")
 	}, {
 		coords: [[-21.002, -30.059]],
-		label: $.t("s:signpost.label.crossroads"),
-		popup: $.t("s:signpost.desc.crossroads")
+		label: $.t("Skellige:signpost.label.crossroads"),
+		popup: $.t("Skellige:signpost.desc.crossroads")
 	}, {
 		coords: [[-16.341, -9.404]],
-		label: $.t("s:signpost.label.minersCamp"),
-		popup: $.t("s:signpost.desc.minersCamp")
+		label: $.t("Skellige:signpost.label.minersCamp"),
+		popup: $.t("Skellige:signpost.desc.minersCamp")
 	}, {
 		coords: [[-14.520, -70.928]],
-		label: $.t("s:signpost.label.eldbergLighthouse"),
-		popup: $.t("s:signpost.desc.eldbergLighthouse")
+		label: $.t("Skellige:signpost.label.eldbergLighthouse"),
+		popup: $.t("Skellige:signpost.desc.eldbergLighthouse")
 	}, {
 		coords: [[-12.512, 1.626]],
-		label: $.t("s:signpost.label.kaerGelen"),
-		popup: $.t("s:signpost.desc.kaerGelen")
+		label: $.t("Skellige:signpost.label.kaerGelen"),
+		popup: $.t("Skellige:signpost.desc.kaerGelen")
 	}, {
 		coords: [[-7.067, -37.617]],
-		label: $.t("s:signpost.label.KaerTroldeHarbor"),
-		popup: $.t("s:signpost.desc.KaerTroldeHarbor")
+		label: $.t("Skellige:signpost.label.KaerTroldeHarbor"),
+		popup: $.t("Skellige:signpost.desc.KaerTroldeHarbor")
 	}, {
 		coords: [[2.636, -38.650]],
-		label: $.t("s:signpost.label.bridgeToKaerTrolde"),
-		popup: $.t("s:signpost.desc.bridgeToKaerTrolde")
+		label: $.t("Skellige:signpost.label.bridgeToKaerTrolde"),
+		popup: $.t("Skellige:signpost.desc.bridgeToKaerTrolde")
 	}, {
 		coords: [[-8.494, -18.171]],
-		label: $.t("s:signpost.label.rogne"),
-		popup: $.t("s:signpost.desc.rogne")
+		label: $.t("Skellige:signpost.label.rogne"),
+		popup: $.t("Skellige:signpost.desc.rogne")
 	}, {
 		coords: [[-1.384, -1.956]],
-		label: $.t("s:signpost.label.yustiannasGrotto"),
-		popup: $.t("s:signpost.desc.yustiannasGrotto")
+		label: $.t("Skellige:signpost.label.yustiannasGrotto"),
+		popup: $.t("Skellige:signpost.desc.yustiannasGrotto")
 	}, {
 		coords: [[2.724, 15.029]],
-		label: $.t("s:signpost.label.giantsToes"),
-		popup: $.t("s:signpost.desc.giantsToes")
+		label: $.t("Skellige:signpost.label.giantsToes"),
+		popup: $.t("Skellige:signpost.desc.giantsToes")
 	}, {
 		coords: [[9.947, -22.039]],
-		label: $.t("s:signpost.label.ancientCrypt"),
-		popup: $.t("s:signpost.desc.ancientCrypt")
+		label: $.t("Skellige:signpost.label.ancientCrypt"),
+		popup: $.t("Skellige:signpost.desc.ancientCrypt")
 	}],
 
 	// Smugglers' Cache

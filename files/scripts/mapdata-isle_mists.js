@@ -91,20 +91,20 @@ window.mapdata_isle_mists = {
 	// Point of Interest
 	poi: [{
 		coords: [[15.9613290815966, 48.1640625]],
-		label: $.t("m:poi.label.hut"),
-		popup: $.t("m:poi.desc.hut")
+		label: $.t("Mists:poi.label.hut"),
+		popup: $.t("Mists:poi.desc.hut")
 	}, {
 		coords: [[-18.4796090558319, -7.03125]],
-		label: $.t("m:poi.label.ferenc"),
-		popup: $.t("m:poi.desc.ferenc")
+		label: $.t("Mists:poi.label.ferenc"),
+		popup: $.t("Mists:poi.desc.ferenc")
 	}, {
 		coords: [[49.951219908662, -2.98828125]],
-		label: $.t("m:poi.label.gasp"),
-		popup: $.t("m:poi.desc.gasp")
+		label: $.t("Mists:poi.label.gasp"),
+		popup: $.t("Mists:poi.desc.gasp")
 	}, {
 		coords: [[38.685509760012, 39.375]],
-		label: $.t("m:poi.label.ivo"),
-		popup: $.t("m:poi.desc.ivo")
+		label: $.t("Mists:poi.label.ivo"),
+		popup: $.t("Mists:poi.desc.ivo")
 	}],
 
 	// Scavengers

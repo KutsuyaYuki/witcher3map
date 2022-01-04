@@ -13,8 +13,8 @@ window.mapdata_kaer_morhen = {
 	alchemy: [{
 		coords: [[58.515625, 67.484375]],
 		label: $.t("alchemy.label"),
-		popupTitle: $.t("k:alchemy.popuptitle.keira"),
-		popup: $.t("k:alchemy.desc.keira")
+		popupTitle: $.t("KaerMorhen:alchemy.popuptitle.keira"),
+		popup: $.t("KaerMorhen:alchemy.desc.keira")
 	}],
 
 	// Armourer
@@ -73,8 +73,8 @@ window.mapdata_kaer_morhen = {
 	// Events
 	event: [{
 		coords: [[75.0625, 41.3125]],
-		label: $.t("k:event.label.trail"),
-		popup: $.t("k:event.desc.trail")
+		label: $.t("KaerMorhen:event.label.trail"),
+		popup: $.t("KaerMorhen:event.desc.trail")
 	}],
 
 	// Grindstone
@@ -189,47 +189,47 @@ window.mapdata_kaer_morhen = {
 	// Sidequests
 	sidequests: [{
 		coords: [[64.15625, 59.828125]],
-		label: $.t("k:sidequests.label.blade"),
-		popup: $.t("k:sidequests.desc.blade")
+		label: $.t("KaerMorhen:sidequests.label.blade"),
+		popup: $.t("KaerMorhen:sidequests.desc.blade")
 	}, {
 		coords: [[39.703125, 77]],
-		label: $.t("k:sidequests.label.greenhouse"),
-		popup: $.t("k:sidequests.desc.greenhouse")
+		label: $.t("KaerMorhen:sidequests.label.greenhouse"),
+		popup: $.t("KaerMorhen:sidequests.desc.greenhouse")
 	}, {
 		coords: [[81.375, 64.78125]],
-		label: $.t("k:sidequests.label.slayer"),
-		popup: $.t("k:sidequests.desc.slayer")
+		label: $.t("KaerMorhen:sidequests.label.slayer"),
+		popup: $.t("KaerMorhen:sidequests.desc.slayer")
 	}, {
 		coords: [[62.75, 42.53125]],
-		label: $.t("k:sidequests.label.bastion"),
-		popup: $.t("k:sidequests.desc.bastion")
+		label: $.t("KaerMorhen:sidequests.label.bastion"),
+		popup: $.t("KaerMorhen:sidequests.desc.bastion")
 	}, {
 		coords: [[65.03125, 67.75]],
-		label: $.t("k:sidequests.label.forge"),
-		popup: $.t("k:sidequests.desc.forge")
+		label: $.t("KaerMorhen:sidequests.label.forge"),
+		popup: $.t("KaerMorhen:sidequests.desc.forge")
 	}],
 
 	// Sign Post
 	signpost: [{
 		coords: [[82.109, 65.656]],
-		label: $.t("k:signpost.label.lakesideHut"),
-		popup: $.t("k:signpost.desc.lakesideHut")
+		label: $.t("KaerMorhen:signpost.label.lakesideHut"),
+		popup: $.t("KaerMorhen:signpost.desc.lakesideHut")
 	}, {
 		coords: [[47.922, 55.547]],
-		label: $.t("k:signpost.label.ironMine"),
-		popup: $.t("k:signpost.desc.ironMine")
+		label: $.t("KaerMorhen:signpost.label.ironMine"),
+		popup: $.t("KaerMorhen:signpost.desc.ironMine")
 	}, {
 		coords: [[61.172, 58.734]],
-		label: $.t("k:signpost.label.kaerMorhen"),
-		popup: $.t("k:signpost.desc.kaerMorhen")
+		label: $.t("KaerMorhen:signpost.label.kaerMorhen"),
+		popup: $.t("KaerMorhen:signpost.desc.kaerMorhen")
 	}, {
 		coords: [[62.531, 43.719]],
-		label: $.t("k:signpost.label.bastion"),
-		popup: $.t("k:signpost.desc.bastion")
+		label: $.t("KaerMorhen:signpost.label.bastion"),
+		popup: $.t("KaerMorhen:signpost.desc.bastion")
 	}, {
 		coords: [[116.625, 58.813]],
-		label: $.t("k:signpost.label.ruinedWatchtower"),
-		popup: $.t("k:signpost.desc.ruinedWatchtower")
+		label: $.t("KaerMorhen:signpost.label.ruinedWatchtower"),
+		popup: $.t("KaerMorhen:signpost.desc.ruinedWatchtower")
 	}],
 
 	// Smugglers' Cache

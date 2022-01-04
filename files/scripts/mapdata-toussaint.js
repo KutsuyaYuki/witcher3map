@@ -43,8 +43,8 @@ window.mapdata_toussaint = {
 		popup: $.t("armourer.desc")
 	}, {
 		coords: [[50.734,65.547]],
-		label: $.t("t:armourer.lafargue"),
-		popup: $.t("t:armourer.lafargueQuest") + $.t("armourer.desc")
+		label: $.t("Toussaint:armourer.lafargue"),
+		popup: $.t("Toussaint:armourer.lafargueQuest") + $.t("armourer.desc")
 	}, {
 		coords: [[50.281,64.297]],
 		label: $.t("armourer.labelMaster"),
@@ -128,39 +128,39 @@ window.mapdata_toussaint = {
 			[78.625, 69.5],
 			[65.875, 76.15625]
 		],
-		label: $.t("t:contracts.label.biggamehunter"),
-		popup: $.t("t:contracts.desc.biggamehunter")
+		label: $.t("Toussaint:contracts.label.biggamehunter"),
+		popup: $.t("Toussaint:contracts.desc.biggamehunter")
 	}],
 
 	// Brothel
 	brothel: [{
 		coords: [[58.359, 72.572]],
-		label: $.t("t:brothel.label.Belle"),
-		popupTitle: $.t("t:brothel.popup.Belle"),
-		popup: $.t("t:brothel.desc")
+		label: $.t("Toussaint:brothel.label.Belle"),
+		popupTitle: $.t("Toussaint:brothel.popup.Belle"),
+		popup: $.t("Toussaint:brothel.desc")
 	}],
 
 	// Contracts
 	contracts: [{
 		coords: [[74.60, 74.50]],
-		label: $.t("t:contracts.label.biggamehunter"),
-		popup: $.t("t:contracts.desc.biggamehunter")
+		label: $.t("Toussaint:contracts.label.biggamehunter"),
+		popup: $.t("Toussaint:contracts.desc.biggamehunter")
 	},{
 		coords: [[74.60, 75.00]],
-		label: $.t("t:contracts.label.coldasice"),
-		popup: $.t("t:contracts.desc.coldasice")
+		label: $.t("Toussaint:contracts.label.coldasice"),
+		popup: $.t("Toussaint:contracts.desc.coldasice")
 	},{
 		coords: [[71.719, 102.719]],
-		label: $.t("t:contracts.label.bonvineblues"),
-		popup: $.t("t:contracts.desc.bonvineblues")
+		label: $.t("Toussaint:contracts.label.bonvineblues"),
+		popup: $.t("Toussaint:contracts.desc.bonvineblues")
 	},{
 		coords: [[64.328, 89.797]],
-		label: $.t("t:contracts.label.tufo"),
-		popup: $.t("t:contracts.desc.tufo")
+		label: $.t("Toussaint:contracts.label.tufo"),
+		popup: $.t("Toussaint:contracts.desc.tufo")
 	},{
 		coords: [[94.4375, 93.546875]],
-		label: $.t("t:contracts.label.phantoms"),
-		popup: $.t("t:contracts.desc.phantoms")
+		label: $.t("Toussaint:contracts.label.phantoms"),
+		popup: $.t("Toussaint:contracts.desc.phantoms")
 	}],
 
 	// Entrance
@@ -212,24 +212,24 @@ window.mapdata_toussaint = {
 	// Events
 	event: [{
 		coords: [[55.15625, 68.46875]],
-		label: $.t("t:event.label.contract"),
-		popup: $.t("t:event.desc.contract")
+		label: $.t("Toussaint:event.label.contract"),
+		popup: $.t("Toussaint:event.desc.contract")
 	}, {
 		coords: [[48.671875, 65.921875]],
-		label: $.t("t:event.label.grave"),
-		popup: $.t("t:event.desc.grave")
+		label: $.t("Toussaint:event.label.grave"),
+		popup: $.t("Toussaint:event.desc.grave")
 	}, {
 		coords: [[60.40625, 56.90625]],
-		label: $.t("t:event.label.naughty"),
-		popup: $.t("t:event.desc.naughty")
+		label: $.t("Toussaint:event.label.naughty"),
+		popup: $.t("Toussaint:event.desc.naughty")
 	}, {
 		coords: [[54.078, 56.969]],
-		label: $.t("t:event.label.ring"),
-		popup: $.t("t:event.desc.ring")
+		label: $.t("Toussaint:event.label.ring"),
+		popup: $.t("Toussaint:event.desc.ring")
 	}, {
 		coords: [[50.750, 61.063]],
-		label: $.t("t:event.label.drunked"),
-		popup: $.t("t:event.desc.drunked")
+		label: $.t("Toussaint:event.label.drunked"),
+		popup: $.t("Toussaint:event.desc.drunked")
 	}],
 
 	// Grindstone
@@ -297,8 +297,8 @@ window.mapdata_toussaint = {
 			[63.653,90.625],
 			[75.606,75.188]
 		],
-		label: $.t("t:misc.label.gwent"),
-		popup: $.t("t:misc.desc.gwent")
+		label: $.t("Toussaint:misc.label.gwent"),
+		popup: $.t("Toussaint:misc.desc.gwent")
 	}],
 
 	// Hanse Base
@@ -308,8 +308,8 @@ window.mapdata_toussaint = {
 			[96.438,44.750],
 			[80.813,108.313]
 		],
-		label: $.t("t:hansebase.label"),
-		popup: $.t("t:hansebase.desc")
+		label: $.t("Toussaint:hansebase.label"),
+		popup: $.t("Toussaint:hansebase.desc")
 	}],
 
 	// Harbor
@@ -363,36 +363,36 @@ window.mapdata_toussaint = {
 	// Innkeep
 	innkeep: [{
 		coords: [[75.406,75.188]],
-		label: $.t("t:signpost.label.cockatrice"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:signpost.label.cockatrice"),
+		popup: $.t("Toussaint:innkeep.desc")
 	},{
 		coords: [[64.656,62.734]],
-		label: $.t("t:innkeep.popup"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:innkeep.popup"),
+		popup: $.t("Toussaint:innkeep.desc")
 	},{
 		coords: [[51.438,61.234]],
-		label: $.t("t:innkeep.label.pheasantry"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:innkeep.label.pheasantry"),
+		popup: $.t("Toussaint:innkeep.desc")
 	},{
 		coords: [[41.328,81.109]],
-		label: $.t("t:innkeep.popup"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:innkeep.popup"),
+		popup: $.t("Toussaint:innkeep.desc")
 	},{
 		coords: [[90.703,47.578]],
-		label: $.t("t:innkeep.label.auberge"),
-		popup: $.t("t:misc.desc.aftercleared")
+		label: $.t("Toussaint:innkeep.label.auberge"),
+		popup: $.t("Toussaint:misc.desc.aftercleared")
 	},{
 		coords: [[63.453,90.625]],
-		label: $.t("t:innkeep.label.barrelandbung"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:innkeep.label.barrelandbung"),
+		popup: $.t("Toussaint:innkeep.desc")
 	},{
 		coords: [[113.891,66.391]],
-		label: $.t("t:innkeep.label.salamander"),
-		popup: $.t("t:misc.desc.aftercleared")
+		label: $.t("Toussaint:innkeep.label.salamander"),
+		popup: $.t("Toussaint:misc.desc.aftercleared")
 	},{
 		coords: [[52.128,65]],
-		label: $.t("t:innkeep.label.winery"),
-		popup: $.t("t:innkeep.desc")
+		label: $.t("Toussaint:innkeep.label.winery"),
+		popup: $.t("Toussaint:innkeep.desc")
 	}],
 
 	// Knight Errant in Distress
@@ -402,8 +402,8 @@ window.mapdata_toussaint = {
 			[97.813,49.516],
 			[38.203,54.75]
 		],
-		label: $.t("t:kid.label"),
-		popup: $.t("t:kid.desc")
+		label: $.t("Toussaint:kid.label"),
+		popup: $.t("Toussaint:kid.desc")
 	}],
 
 	// Monster Den
@@ -484,7 +484,7 @@ window.mapdata_toussaint = {
 		popup: $.t("pop.desc")
 	},{
 		coords: [[61.531,44.969]],
-		label: $.t("pop.label") + $.t(" ")+ $.t("t:misc.desc.insideden"),
+		label: $.t("pop.label") + $.t(" ")+ $.t("Toussaint:misc.desc.insideden"),
 		popupTitle: $.t("pop.popup", {sign: $.t("signs.axii")}),
 		popup: $.t("pop.desc")
 	},{
@@ -494,7 +494,7 @@ window.mapdata_toussaint = {
 		popup: $.t("pop.desc")
 	},{
 		coords: [[68.625,114.8447]],
-		label: $.t("pop.label") + $.t(" ")+ $.t("t:misc.desc.insidecave"),
+		label: $.t("pop.label") + $.t(" ")+ $.t("Toussaint:misc.desc.insidecave"),
 		popupTitle: $.t("pop.popup", {sign: $.t("signs.igni")}),
 		popup: $.t("pop.desc")
 	},{
@@ -507,12 +507,12 @@ window.mapdata_toussaint = {
 	// Point of Interest
 	poi: [{
 		coords: [[53.96875,60.625]],
-		label: $.t("t:poi.label.ducal"),
-		popup: $.t("t:poi.desc.ducal")
+		label: $.t("Toussaint:poi.label.ducal"),
+		popup: $.t("Toussaint:poi.desc.ducal")
 	}, {
 		coords: [[51.906,2.859]],
-		label: $.t("t:poi.label.photo"),
-		popup: $.t("t:poi.desc.photo")
+		label: $.t("Toussaint:poi.label.photo"),
+		popup: $.t("Toussaint:poi.desc.photo")
 	}],
 
 	// Scavengers
@@ -593,216 +593,216 @@ window.mapdata_toussaint = {
 	// (Side) Quests
 	sidequests: [{
 		coords: [[52.844,65]],
-		label: $.t("t:sidequests.label.onlyone"),
-		popup: $.t("t:sidequests.desc.onlyone") + $.t(' <a href="https://wiiare.in/witcher3/embodiment-of-the-five-virtues/" target="_blank">[Questhelp]</a>')
+		label: $.t("Toussaint:sidequests.label.onlyone"),
+		popup: $.t("Toussaint:sidequests.desc.onlyone") + $.t(' <a href="https://wiiare.in/witcher3/embodiment-of-the-five-virtues/" target="_blank">[Questhelp]</a>')
 	}, {
 		coords: [[74.60,77.00]],
-		label: $.t("t:sidequests.label.wildkingdom"),
-		popup: $.t("t:sidequests.desc.wildkingdom")
+		label: $.t("Toussaint:sidequests.label.wildkingdom"),
+		popup: $.t("Toussaint:sidequests.desc.wildkingdom")
 	}, {
 		coords: [[74.60,76.50]],
-		label: $.t("t:sidequests.label.kingforhire"),
-		popup: $.t("t:sidequests.desc.kingforhire")
+		label: $.t("Toussaint:sidequests.label.kingforhire"),
+		popup: $.t("Toussaint:sidequests.desc.kingforhire")
 	}, {
 		coords: [[52.063,60.797]],
-		label: $.t("t:sidequests.label.facethestrage"),
-		popup: $.t("t:sidequests.desc.facethestrage")
+		label: $.t("Toussaint:sidequests.label.facethestrage"),
+		popup: $.t("Toussaint:sidequests.desc.facethestrage")
 	}, {
 		coords: [[83.891,55.156]],
-		label: $.t("t:sidequests.label.knightstale"),
-		popup: $.t("t:sidequests.desc.knightstale")
+		label: $.t("Toussaint:sidequests.label.knightstale"),
+		popup: $.t("Toussaint:sidequests.desc.knightstale")
 	}, {
 		coords: [[49.578,62.969]],
-		label: $.t("t:sidequests.label.tilldeath"),
-		popup: $.t("t:sidequests.desc.tilldeath")
+		label: $.t("Toussaint:sidequests.label.tilldeath"),
+		popup: $.t("Toussaint:sidequests.desc.tilldeath")
 	}, {
 		coords: [[50.719,65.875]],
-		label: $.t("t:sidequests.label.master"),
-		popup: $.t("t:sidequests.desc.master")
+		label: $.t("Toussaint:sidequests.label.master"),
+		popup: $.t("Toussaint:sidequests.desc.master")
 	}, {
 		coords: [[52.281,65.234]],
-		label: $.t("t:sidequests.label.granite"),
-		popup: $.t("t:sidequests.desc.granite")
+		label: $.t("Toussaint:sidequests.label.granite"),
+		popup: $.t("Toussaint:sidequests.desc.granite")
 	}, {
 		coords: [[52.844,64]],
-		label: $.t("t:sidequests.label.smittenkight"),
-		popup: $.t("t:sidequests.desc.smittenkight")
+		label: $.t("Toussaint:sidequests.label.smittenkight"),
+		popup: $.t("Toussaint:sidequests.desc.smittenkight")
 	}, {
 		coords: [[52.844,64.5]],
-		label: $.t("t:sidequests.label.placelikehome"),
-		popup: $.t("t:sidequests.desc.placelikehome")
+		label: $.t("Toussaint:sidequests.label.placelikehome"),
+		popup: $.t("Toussaint:sidequests.desc.placelikehome")
 	}, {
 		coords: [[50.453,63.734]],
-		label: $.t("t:sidequests.label.paperchase"),
-		popup: $.t("t:sidequests.desc.paperchase")
+		label: $.t("Toussaint:sidequests.label.paperchase"),
+		popup: $.t("Toussaint:sidequests.desc.paperchase")
 	}, {
 		coords: [[51.438,63.797]],
-		label: $.t("t:sidequests.label.portait"),
-		popup: $.t("t:sidequests.desc.portait")
+		label: $.t("Toussaint:sidequests.label.portait"),
+		popup: $.t("Toussaint:sidequests.desc.portait")
 	}, {
 		coords: [[42.625, 89.625]],
-		label: $.t("t:sidequests.label.cosplay"),
-		popup: $.t("t:sidequests.desc.cosplay")
+		label: $.t("Toussaint:sidequests.label.cosplay"),
+		popup: $.t("Toussaint:sidequests.desc.cosplay")
 	}, {
 		coords: [[66.5, 75.203125]],
-		label: $.t("t:sidequests.label.grist"),
-		popup: $.t("t:sidequests.desc.grist")
+		label: $.t("Toussaint:sidequests.label.grist"),
+		popup: $.t("Toussaint:sidequests.desc.grist")
 	}, {
 		coords: [[64.703125, 43.5]],
-		label: $.t("t:sidequests.label.father"),
-		popup: $.t("t:sidequests.desc.father")
+		label: $.t("Toussaint:sidequests.label.father"),
+		popup: $.t("Toussaint:sidequests.desc.father")
 	}, {
 		coords: [[48.953125, 61.90625]],
-		label: $.t("t:sidequests.label.sheers"),
-		popup: $.t("t:sidequests.desc.sheers")
+		label: $.t("Toussaint:sidequests.label.sheers"),
+		popup: $.t("Toussaint:sidequests.desc.sheers")
 	}, {
 		coords: [[55.421875, 73.1875]],
-		label: $.t("t:sidequests.label.raging"),
-		popup: $.t("t:sidequests.desc.raging")
+		label: $.t("Toussaint:sidequests.label.raging"),
+		popup: $.t("Toussaint:sidequests.desc.raging")
 	}, {
 		coords: [[70.46875, 67.453125]],
-		label: $.t("t:sidequests.label.hunger"),
-		popup: $.t("t:sidequests.desc.hunger")
+		label: $.t("Toussaint:sidequests.label.hunger"),
+		popup: $.t("Toussaint:sidequests.desc.hunger")
 	}, {
 		coords: [[57.796875, 87]],
-		label: $.t("t:sidequests.label.jailbird"),
-		popup: $.t("t:sidequests.desc.jailbird")
+		label: $.t("Toussaint:sidequests.label.jailbird"),
+		popup: $.t("Toussaint:sidequests.desc.jailbird")
 	}, {
 		coords: [[98.359375, 58.59375]],
-		label: $.t("t:sidequests.label.prophet"),
-		popup: $.t("t:sidequests.desc.prophet")
+		label: $.t("Toussaint:sidequests.label.prophet"),
+		popup: $.t("Toussaint:sidequests.desc.prophet")
 	}, {
 		coords: [[74.60,75.50]],
-		label: $.t("sidequests.gwent") +$.t(": ") +$.t("t:sidequests.label.gw_tournment"),
-		popup: $.t("t:sidequests.desc.gw_tournment")
+		label: $.t("sidequests.gwent") +$.t(": ") +$.t("Toussaint:sidequests.label.gw_tournment"),
+		popup: $.t("Toussaint:sidequests.desc.gw_tournment")
 	}, {
 		coords: [[51.359375, 60.890625]],
-		label: $.t("sidequests.gwent") +$.t(": ") +$.t("t:sidequests.label.gw_fear"),
-		popup: $.t("t:sidequests.desc.gw_fear")
+		label: $.t("sidequests.gwent") +$.t(": ") +$.t("Toussaint:sidequests.label.gw_fear"),
+		popup: $.t("Toussaint:sidequests.desc.gw_fear")
 	}, {
 		coords: [[47.3125, 63.203125]],
-		label: $.t("sidequests.fist") +$.t(": ") +$.t("t:sidequests.label.ff_st"),
-		popup: $.t("t:sidequests.desc.ff_st")
+		label: $.t("sidequests.fist") +$.t(": ") +$.t("Toussaint:sidequests.label.ff_st"),
+		popup: $.t("Toussaint:sidequests.desc.ff_st")
 	}, {
 		coords: [[94.546875, 82.28125]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_eightdays"),
-		popup: $.t("t:sidequests.desc.tr_eightdays")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_eightdays"),
+		popup: $.t("Toussaint:sidequests.desc.tr_eightdays")
 	}, {
 		coords: [[96.0625, 89.5]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_stink"),
-		popup: $.t("t:sidequests.desc.tr_stink")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_stink"),
+		popup: $.t("Toussaint:sidequests.desc.tr_stink")
 	}, {
 		coords: [[92.1875, 55.3125]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_stranger"),
-		popup: $.t("t:sidequests.desc.tr_stranger")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_stranger"),
+		popup: $.t("Toussaint:sidequests.desc.tr_stranger")
 	}, {
 		coords: [[61.234375, 102.859375]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_filibert"),
-		popup: $.t("t:sidequests.desc.tr_filibert")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_filibert"),
+		popup: $.t("Toussaint:sidequests.desc.tr_filibert")
 	}, {
 		coords: [[63.828125, 81.15625]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_widow"),
-		popup: $.t("t:sidequests.desc.tr_widow")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_widow"),
+		popup: $.t("Toussaint:sidequests.desc.tr_widow")
 	}, {
 		coords: [[89.15625, 53.625]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_carnarvon"),
-		popup: $.t("t:sidequests.desc.tr_carnarvon")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_carnarvon"),
+		popup: $.t("Toussaint:sidequests.desc.tr_carnarvon")
 	}, {
 		coords: [[24.328125, 72.6875]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_gardener"),
-		popup: $.t("t:sidequests.desc.tr_gardener")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_gardener"),
+		popup: $.t("Toussaint:sidequests.desc.tr_gardener")
 	}, {
 		coords: [[44.28125, 64.8125]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_selina"),
-		popup: $.t("t:sidequests.desc.tr_selina")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_selina"),
+		popup: $.t("Toussaint:sidequests.desc.tr_selina")
 	}, {
 		coords: [[69.375, 42.390625]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_experiment"),
-		popup: $.t("t:sidequests.desc.tr_experiment")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_experiment"),
+		popup: $.t("Toussaint:sidequests.desc.tr_experiment")
 	}, {
 		coords: [[54.328125, 107.046875]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_doh"),
-		popup: $.t("t:sidequests.desc.tr_doh")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_doh"),
+		popup: $.t("Toussaint:sidequests.desc.tr_doh")
 	}, {
 		coords: [[102.6875, 64.71875]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_again"),
-		popup: $.t("t:sidequests.desc.tr_again")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_again"),
+		popup: $.t("Toussaint:sidequests.desc.tr_again")
 	}, {
 		coords: [[37.594,97.641]], //todo makers
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_spoon"),
-		popup: $.t("t:sidequests.desc.tr_spoon")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_spoon"),
+		popup: $.t("Toussaint:sidequests.desc.tr_spoon")
 	}, {
 		coords: [[57.891,85.313]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_escapology"),
-		popup: $.t("t:sidequests.desc.tr_escapology")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_escapology"),
+		popup: $.t("Toussaint:sidequests.desc.tr_escapology")
 	}, {
 		coords: [[77.141,42.5]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_suffering"),
-		popup: $.t("t:sidequests.desc.tr_suffering")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_suffering"),
+		popup: $.t("Toussaint:sidequests.desc.tr_suffering")
 	}, {
 		coords: [[42.500,55.313]],
-		label: $.t("treasure.label") +$.t(": ") +$.t("t:sidequests.label.tr_enjoytheplay"),
-		popup: $.t("t:sidequests.desc.tr_enjoytheplay")
+		label: $.t("treasure.label") +$.t(": ") +$.t("Toussaint:sidequests.label.tr_enjoytheplay"),
+		popup: $.t("Toussaint:sidequests.desc.tr_enjoytheplay")
 	}, {
 		coords: [[74.60,76.00]],
-		label: $.t("sidequests.winewars") +$.t(": ") +$.t("t:sidequests.label.ww_belgaard"),
-		popup: $.t("t:sidequests.desc.ww_belgaard")
+		label: $.t("sidequests.winewars") +$.t(": ") +$.t("Toussaint:sidequests.label.ww_belgaard"),
+		popup: $.t("Toussaint:sidequests.desc.ww_belgaard")
 	}, {
 		coords: [[99.328,79.219]],
-		label: $.t("sidequests.winewars") +$.t(": ") +$.t("t:sidequests.label.ww_deus"),
-		popup: $.t("t:sidequests.desc.ww_deus")
+		label: $.t("sidequests.winewars") +$.t(": ") +$.t("Toussaint:sidequests.label.ww_deus"),
+		popup: $.t("Toussaint:sidequests.desc.ww_deus")
 	}, {
 		coords: [[93.734375, 65.5625]],
-		label: $.t("sidequests.winewars") +$.t(": ") +$.t("t:sidequests.label.ww_consorting"),
-		popup: $.t("t:sidequests.desc.ww_consorting")
+		label: $.t("sidequests.winewars") +$.t(": ") +$.t("Toussaint:sidequests.label.ww_consorting"),
+		popup: $.t("Toussaint:sidequests.desc.ww_consorting")
 	}, {
 		coords: [[93.75, 65.90625]],
-		label: $.t("sidequests.winewars") +$.t(": ") +$.t("t:sidequests.label.ww_coronata"),
-		popup: $.t("t:sidequests.desc.ww_coronata")
+		label: $.t("sidequests.winewars") +$.t(": ") +$.t("Toussaint:sidequests.label.ww_coronata"),
+		popup: $.t("Toussaint:sidequests.desc.ww_coronata")
 	}, {
 		coords: [[93.75, 66.234375]],
-		label: $.t("sidequests.winewars") +$.t(": ") +$.t("t:sidequests.label.ww_vermentino"),
-		popup: $.t("t:sidequests.desc.ww_vermentino")
+		label: $.t("sidequests.winewars") +$.t(": ") +$.t("Toussaint:sidequests.label.ww_vermentino"),
+		popup: $.t("Toussaint:sidequests.desc.ww_vermentino")
 	}, {
 		coords: [[91.094,86.703]],
-		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("t:sidequests.label.vc_dun"),
-		popup: $.t("t:sidequests.desc.vc_dun")
+		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("Toussaint:sidequests.label.vc_dun"),
+		popup: $.t("Toussaint:sidequests.desc.vc_dun")
 	}, {
 		coords: [[49.047,92.781]],
-		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("t:sidequests.label.vc_cleaning"),
-		popup: $.t("t:sidequests.desc.vc_cleaning")
+		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("Toussaint:sidequests.label.vc_cleaning"),
+		popup: $.t("Toussaint:sidequests.desc.vc_cleaning")
 	}, {
 		coords: [[85.563,72.172]],
-		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("t:sidequests.label.vc_rivecalme"),
-		popup: $.t("t:sidequests.desc.vc_rivecalme")
+		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("Toussaint:sidequests.label.vc_rivecalme"),
+		popup: $.t("Toussaint:sidequests.desc.vc_rivecalme")
 	}, {
 		coords: [[79.640625, 53.65625]],
-		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("t:sidequests.label.vc_chuchote"),
-		popup: $.t("t:sidequests.desc.vc_chuchote")
+		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("Toussaint:sidequests.label.vc_chuchote"),
+		popup: $.t("Toussaint:sidequests.desc.vc_chuchote")
 	}, {
 		coords: [[56.265625, 44.34375]],
-		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("t:sidequests.label.vc_griffin"),
-		popup: $.t("t:sidequests.desc.vc_griffin")
+		label: $.t("sidequests.vintnercontract") +$.t(": ") +$.t("Toussaint:sidequests.label.vc_griffin"),
+		popup: $.t("Toussaint:sidequests.desc.vc_griffin")
 	}, {
 		coords: [[94.609,50.297]],
-		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("t:sidequests.label.bf_1"),
-		popup: $.t("t:sidequests.desc.bf_1")
+		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("Toussaint:sidequests.label.bf_1"),
+		popup: $.t("Toussaint:sidequests.desc.bf_1")
 	}, {
 		coords: [[92.063,63.344]],
-		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("t:sidequests.label.bf_2"),
-		popup: $.t("t:sidequests.desc.bf_2")
+		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("Toussaint:sidequests.label.bf_2"),
+		popup: $.t("Toussaint:sidequests.desc.bf_2")
 	}, {
 		coords: [[89.781,56.984]],
-		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("t:sidequests.label.bf_3"),
-		popup: $.t("t:sidequests.desc.bf_3")
+		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("Toussaint:sidequests.label.bf_3"),
+		popup: $.t("Toussaint:sidequests.desc.bf_3")
 	}, {
 		coords: [[107.750,72.266]],
-		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("t:sidequests.label.bf_4"),
-		popup: $.t("t:sidequests.desc.bf_4")
+		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("Toussaint:sidequests.label.bf_4"),
+		popup: $.t("Toussaint:sidequests.desc.bf_4")
 	}, {
 		coords: [[101.484,61.531]],
-		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("t:sidequests.label.bf_5"),
-		popup: $.t("t:sidequests.desc.bf_5")
+		label: $.t("sidequests.bigfeet") +$.t(": ") +$.t("Toussaint:sidequests.label.bf_5"),
+		popup: $.t("Toussaint:sidequests.desc.bf_5")
 	}],
 
 	// Signal Fire
@@ -812,195 +812,195 @@ window.mapdata_toussaint = {
 			[117.016,71.484],
 			[97.563,44.672]
 		],
-		label: $.t("t:signalfire.label"),
-		popup: $.t("t:signalfire.desc")
+		label: $.t("Toussaint:signalfire.label"),
+		popup: $.t("Toussaint:signalfire.desc")
 	}],
 
 	// Sign Post
 	signpost: [{
 		coords: [[85.578,74.844]],
-		label: $.t("t:signpost.label.dulcineawindmill"),
-		popup: $.t("t:signpost.desc.dulcineawindmill")
+		label: $.t("Toussaint:signpost.label.dulcineawindmill"),
+		popup: $.t("Toussaint:signpost.desc.dulcineawindmill")
 	}, {
 		coords: [[76.563,75.891]],
-		label: $.t("t:signpost.label.cockatrice"),
-		popup: $.t("t:signpost.desc.cockatrice")
+		label: $.t("Toussaint:signpost.label.cockatrice"),
+		popup: $.t("Toussaint:signpost.desc.cockatrice")
 	}, {
 		coords: [[70.719,69.219]],
-		label: $.t("t:signpost.label.corvobianco"),
-		popup: $.t("t:signpost.desc.corvobianco")
+		label: $.t("Toussaint:signpost.label.corvobianco"),
+		popup: $.t("Toussaint:signpost.desc.corvobianco")
 	}, {
 		coords: [[58.594,55.828]],
-		label: $.t("t:signpost.label.palace"),
-		popup: $.t("t:signpost.desc.palace")
+		label: $.t("Toussaint:signpost.label.palace"),
+		popup: $.t("Toussaint:signpost.desc.palace")
 	}, {
 		coords: [[52.188,53.859]],
-		label: $.t("t:signpost.label.palacegardens"),
-		popup: $.t("t:signpost.desc.palacegardens")
+		label: $.t("Toussaint:signpost.label.palacegardens"),
+		popup: $.t("Toussaint:signpost.desc.palacegardens")
 	}, {
 		coords: [[49.188,67.703]],
-		label: $.t("t:signpost.label.gate"),
-		popup: $.t("t:signpost.desc.gate")
+		label: $.t("Toussaint:signpost.label.gate"),
+		popup: $.t("Toussaint:signpost.desc.gate")
 	}, {
 		coords: [[39.563,79.563]],
-		label: $.t("t:signpost.label.francollarts"),
-		popup: $.t("t:signpost.desc.francollarts")
+		label: $.t("Toussaint:signpost.label.francollarts"),
+		popup: $.t("Toussaint:signpost.desc.francollarts")
 	}, {
 		coords: [[77.813,41.813]],
-		label: $.t("t:signpost.label.fort"),
-		popup: $.t("t:signpost.desc.fort")
+		label: $.t("Toussaint:signpost.label.fort"),
+		popup: $.t("Toussaint:signpost.desc.fort")
 	}, {
 		coords: [[91.297,47.344]],
-		label: $.t("t:signpost.label.fox"),
-		popup: $.t("t:signpost.desc.fox")
+		label: $.t("Toussaint:signpost.label.fox"),
+		popup: $.t("Toussaint:signpost.desc.fox")
 	}, {
 		coords: [[85.422,55.938]],
-		label: $.t("t:signpost.label.castelravello"),
-		popup: $.t("t:signpost.desc.castelravello")
+		label: $.t("Toussaint:signpost.label.castelravello"),
+		popup: $.t("Toussaint:signpost.desc.castelravello")
 	}, {
 		coords: [[47.969,78.094]],
-		label: $.t("t:signpost.label.cemetry"),
-		popup: $.t("t:signpost.desc.cemetry")
+		label: $.t("Toussaint:signpost.label.cemetry"),
+		popup: $.t("Toussaint:signpost.desc.cemetry")
 	}, {
 		coords: [[55.359,88.313]],
-		label: $.t("t:signpost.label.prison"),
-		popup: $.t("t:signpost.desc.prison")
+		label: $.t("Toussaint:signpost.label.prison"),
+		popup: $.t("Toussaint:signpost.desc.prison")
 	}, {
 		coords: [[46.781,92.297]],
-		label: $.t("t:signpost.label.farm"),
-		popup: $.t("t:signpost.desc.farm")
+		label: $.t("Toussaint:signpost.label.farm"),
+		popup: $.t("Toussaint:signpost.desc.farm")
 	}, {
 		coords: [[46.406,99.547]],
-		label: $.t("t:signpost.label.ruins"),
-		popup: $.t("t:signpost.desc.ruins")
+		label: $.t("Toussaint:signpost.label.ruins"),
+		popup: $.t("Toussaint:signpost.desc.ruins")
 	}, {
 		coords: [[35.734,94.438]],
-		label: $.t("t:signpost.label.cottage"),
-		popup: $.t("t:signpost.desc.cottage")
+		label: $.t("Toussaint:signpost.label.cottage"),
+		popup: $.t("Toussaint:signpost.desc.cottage")
 	}, {
 		coords: [[27.500,80.031]],
-		label: $.t("t:signpost.label.mutnaruins"),
-		popup: $.t("t:signpost.desc.mutnaruins")
+		label: $.t("Toussaint:signpost.label.mutnaruins"),
+		popup: $.t("Toussaint:signpost.desc.mutnaruins")
 	}, {
 		coords: [[48.063,63.016]],
-		label: $.t("t:signpost.label.embassy"),
-		popup: $.t("t:signpost.desc.embassy")
+		label: $.t("Toussaint:signpost.label.embassy"),
+		popup: $.t("Toussaint:signpost.desc.embassy")
 	}, {
 		coords: [[53.859,63.641]],
-		label: $.t("t:signpost.label.granplace"),
-		popup: $.t("t:signpost.desc.granplace")
+		label: $.t("Toussaint:signpost.label.granplace"),
+		popup: $.t("Toussaint:signpost.desc.granplace")
 	}, {
 		coords: [[64.734,64.125]],
-		label: $.t("t:signpost.label.tunier"),
-		popup: $.t("t:signpost.desc.tunier")
+		label: $.t("Toussaint:signpost.label.tunier"),
+		popup: $.t("Toussaint:signpost.desc.tunier")
 	}, {
 		coords: [[96.391,59.031]],
-		label: $.t("t:signpost.label.statue"),
-		popup: $.t("t:signpost.desc.statue")
+		label: $.t("Toussaint:signpost.label.statue"),
+		popup: $.t("Toussaint:signpost.desc.statue")
 	}, {
 		coords: [[34.719,67.375]],
-		label: $.t("t:signpost.label.hortense"),
-		popup: $.t("t:signpost.desc.hortense")
+		label: $.t("Toussaint:signpost.label.hortense"),
+		popup: $.t("Toussaint:signpost.desc.hortense")
 	}, {
 		coords: [[64.609,90.953]],
-		label: $.t("t:signpost.label.flovive"),
-		popup: $.t("t:signpost.desc.flovive")
+		label: $.t("Toussaint:signpost.label.flovive"),
+		popup: $.t("Toussaint:signpost.desc.flovive")
 	}, {
 		coords: [[69.688,115.422]],
-		label: $.t("t:signpost.label.fortussar"),
-		popup: $.t("t:signpost.desc.fortussar")
+		label: $.t("Toussaint:signpost.label.fortussar"),
+		popup: $.t("Toussaint:signpost.desc.fortussar")
 	}, {
 		coords: [[78.328,107.422]],
-		label: $.t("t:signpost.label.montcranecastle"),
-		popup: $.t("t:signpost.desc.montcranecastle")
+		label: $.t("Toussaint:signpost.label.montcranecastle"),
+		popup: $.t("Toussaint:signpost.desc.montcranecastle")
 	}, {
 		coords: [[82.219,85.750]],
-		label: $.t("t:signpost.label.duntynnecastle"),
-		popup: $.t("t:signpost.desc.duntynnecastle")
+		label: $.t("Toussaint:signpost.label.duntynnecastle"),
+		popup: $.t("Toussaint:signpost.desc.duntynnecastle")
 	}, {
 		coords: [[79.984,94.141]],
-		label: $.t("t:signpost.label.duntynnehillside"),
-		popup: $.t("t:signpost.desc.duntynnehillside")
+		label: $.t("Toussaint:signpost.label.duntynnehillside"),
+		popup: $.t("Toussaint:signpost.desc.duntynnehillside")
 	}, {
 		coords: [[113.828,74.422]],
-		label: $.t("t:signpost.label.arthachpalaceruins"),
-		popup: $.t("t:signpost.desc.arthachpalaceruins")
+		label: $.t("Toussaint:signpost.label.arthachpalaceruins"),
+		popup: $.t("Toussaint:signpost.desc.arthachpalaceruins")
 	}, {
 		coords: [[110.344,66.078]],
-		label: $.t("t:signpost.label.thesilversalamanderinn"),
-		popup: $.t("t:signpost.desc.thesilversalamanderinn")
+		label: $.t("Toussaint:signpost.label.thesilversalamanderinn"),
+		popup: $.t("Toussaint:signpost.desc.thesilversalamanderinn")
 	}, {
 		coords: [[104.281,80.156]],
-		label: $.t("t:signpost.label.tradingpost"),
-		popup: $.t("t:signpost.desc.tradingpost")
+		label: $.t("Toussaint:signpost.label.tradingpost"),
+		popup: $.t("Toussaint:signpost.desc.tradingpost")
 	}, {
 		coords: [[93.203,73.578]],
-		label: $.t("t:signpost.label.coronatavineyard"),
-		popup: $.t("t:signpost.desc.coronatavineyard")
+		label: $.t("Toussaint:signpost.label.coronatavineyard"),
+		popup: $.t("Toussaint:signpost.desc.coronatavineyard")
 	}, {
 		coords: [[88.438,100.969]],
-		label: $.t("t:signpost.label.basanefarm"),
-		popup: $.t("t:signpost.desc.basanefarm")
+		label: $.t("Toussaint:signpost.label.basanefarm"),
+		popup: $.t("Toussaint:signpost.desc.basanefarm")
 	}, {
 		coords: [[65.719,74.813]],
-		label: $.t("t:signpost.label.croixmill"),
-		popup: $.t("t:signpost.desc.croixmill")
+		label: $.t("Toussaint:signpost.label.croixmill"),
+		popup: $.t("Toussaint:signpost.desc.croixmill")
 	}, {
 		coords: [[57.328,64.453]],
-		label: $.t("t:signpost.label.coopersgate"),
-		popup: $.t("t:signpost.desc.coopersgate")
+		label: $.t("Toussaint:signpost.label.coopersgate"),
+		popup: $.t("Toussaint:signpost.desc.coopersgate")
 	}, {
 		coords: [[54.844,68.781]],
-		label: $.t("t:signpost.label.haborgate"),
-		popup: $.t("t:signpost.desc.haborgate")
+		label: $.t("Toussaint:signpost.label.haborgate"),
+		popup: $.t("Toussaint:signpost.desc.haborgate")
 	}, {
 		coords: [[58.500,70.047]],
-		label: $.t("t:signpost.label.sansebastian"),
-		popup: $.t("t:signpost.desc.sansebastian")
+		label: $.t("Toussaint:signpost.label.sansebastian"),
+		popup: $.t("Toussaint:signpost.desc.sansebastian")
 	}, {
 		coords: [[55.859,72.984]],
-		label: $.t("t:signpost.label.beauclairport"),
-		popup: $.t("t:signpost.desc.beauclairport")
+		label: $.t("Toussaint:signpost.label.beauclairport"),
+		popup: $.t("Toussaint:signpost.desc.beauclairport")
 	}, {
 		coords: [[92.188,90.406]],
-		label: $.t("t:signpost.label.duntynnecrossroads"),
-		popup: $.t("t:signpost.desc.duntynnecrossroads")
+		label: $.t("Toussaint:signpost.label.duntynnecrossroads"),
+		popup: $.t("Toussaint:signpost.desc.duntynnecrossroads")
 	}, {
 		coords: [[93.547,66.094]],
-		label: $.t("t:signpost.label.plegmundsbridge"),
-		popup: $.t("t:signpost.desc.plegmundsbridge")
+		label: $.t("Toussaint:signpost.label.plegmundsbridge"),
+		popup: $.t("Toussaint:signpost.desc.plegmundsbridge")
 	}, {
 		coords: [[78.234,52.672]],
-		label: $.t("t:signpost.label.chuchotecave"),
-		popup: $.t("t:signpost.desc.chuchotecave")
+		label: $.t("Toussaint:signpost.label.chuchotecave"),
+		popup: $.t("Toussaint:signpost.desc.chuchotecave")
 	}, {
 		coords: [[76.953,65.938]],
-		label: $.t("t:signpost.label.sansretourvalley"),
-		popup: $.t("t:signpost.desc.sansretourvalley")
+		label: $.t("Toussaint:signpost.label.sansretourvalley"),
+		popup: $.t("Toussaint:signpost.desc.sansretourvalley")
 	}, {
 		coords: [[58.563,42.484]],
-		label: $.t("t:signpost.label.riouxcannesoutpost"),
-		popup: $.t("t:signpost.desc.riouxcannesoutpost")
+		label: $.t("Toussaint:signpost.label.riouxcannesoutpost"),
+		popup: $.t("Toussaint:signpost.desc.riouxcannesoutpost")
 	}, {
 		coords: [[44.078,54.172]],
-		label: $.t("t:signpost.label.seidhellyghadamphitheater"),
-		popup: $.t("t:signpost.desc.seidhellyghadamphitheater")
+		label: $.t("Toussaint:signpost.label.seidhellyghadamphitheater"),
+		popup: $.t("Toussaint:signpost.desc.seidhellyghadamphitheater")
 	}, {
 		coords: [[43.031,70.906]],
-		label: $.t("t:signpost.label.belgaardvineyard"),
-		popup: $.t("t:signpost.desc.belgaardvineyard")
+		label: $.t("Toussaint:signpost.label.belgaardvineyard"),
+		popup: $.t("Toussaint:signpost.desc.belgaardvineyard")
 	}, {
 		coords: [[45.078,65.547]],
-		label: $.t("t:signpost.label.lebiodasgate"),
-		popup: $.t("t:signpost.desc.lebiodasgate")
+		label: $.t("Toussaint:signpost.label.lebiodasgate"),
+		popup: $.t("Toussaint:signpost.desc.lebiodasgate")
 	}, {
 		coords: [[71.750,100.203]],
-		label: $.t("t:signpost.label.ardaisoquarry"),
-		popup: $.t("t:signpost.desc.ardaisoquarry")
+		label: $.t("Toussaint:signpost.label.ardaisoquarry"),
+		popup: $.t("Toussaint:signpost.desc.ardaisoquarry")
 	}, {
 		coords: [[59.938,100.188]],
-		label: $.t("t:signpost.label.casteldacciaabandonedestate"),
-		popup: $.t("t:signpost.desc.casteldacciaabandonedestate")
+		label: $.t("Toussaint:signpost.label.casteldacciaabandonedestate"),
+		popup: $.t("Toussaint:signpost.desc.casteldacciaabandonedestate")
 	}],
 
 	// Smugglers' Cache

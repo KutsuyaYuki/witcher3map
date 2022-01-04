@@ -1,4 +1,4 @@
-var isRoot = (location.pathname.match(/\/(\w{1})\/(?:index.html)?$/)) ? false : true;
+var isRoot = (location.pathname.match(/\/(\w+)\/(?:index.html)?$/)) ? false : true;
 
 if (localStorage['lang'] == null) {
 	var lang = window.navigator.userLanguage || window.navigator.language;
