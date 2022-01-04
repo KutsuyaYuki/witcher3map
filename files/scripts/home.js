@@ -13,7 +13,7 @@ $.i18n.init(i18noptions, function() {
 						$.cachedScript("files/scripts/mapdata-white_orchard.js").done(function(script, textStatus) {
 							$.i18n.loadNamespace('KaerMorhen', function() {
 								$.cachedScript("files/scripts/mapdata-kaer_morhen.js").done(function(script, textStatus) {
-									$.i18n.loadNamespace('t', function() {
+									$.i18n.loadNamespace('Toussaint', function() {
 										$.cachedScript("files/scripts/mapdata-toussaint.js").done(function(script, textStatus) {
 											$.i18n.loadNamespace('ToussaintFables', function() {
 												$.cachedScript("files/scripts/mapdata-toussaint_fables.js").done(function(script, textStatus) {

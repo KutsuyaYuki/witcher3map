@@ -17,7 +17,7 @@ $.i18n.init(i18noptions, function() {
 			getMapdata('hos_velen');
 		} else if (namespace == "Skellige") {
 			getMapdata('skellige');
-		} else if (namespace == "t") {
+		} else if (namespace == "Toussaint") {
 			getMapdata('toussaint');
 		} else if (namespace == "KaerMorhen") {
 			getMapdata('kaer_morhen');
